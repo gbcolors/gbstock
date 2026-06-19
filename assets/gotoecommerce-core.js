@@ -30,6 +30,7 @@
     var products = config.products || [];
     var categories = config.categories || [];
     var perPage = config.perPage || 30;
+    var loadedFontFaces = {};
 
     function save() {
       localStorage.setItem(tenant + "_cart", JSON.stringify(state.cart));
@@ -69,11 +70,7 @@
       var styleId = tenant + "-fontfaces";
       var existing = byId(styleId);
       if (existing) existing.remove();
-      var css = products.filter(function (product) {
-        return product.category === "fonts" && product.previewWoff2;
-      }).map(function (product) {
-        return '@font-face{font-family:"' + product.id + '";src:url("' + product.previewWoff2 + '") format("woff2");font-display:swap;}';
-      }).join("");
+      var css = "";
       if (config.displayFontUrl) {
         css += '@font-face{font-family:"' + (config.displayFontFamily || "GBstock Display") + '";src:url("' + config.displayFontUrl + '") format("woff2");font-display:swap;}';
       }
@@ -81,6 +78,17 @@
       style.id = styleId;
       style.textContent = css;
       document.head.appendChild(style);
+    }
+
+    function ensureFontFace(product) {
+      if (!product || product.category !== "fonts" || !product.previewWoff2 || loadedFontFaces[product.id]) return;
+      loadedFontFaces[product.id] = true;
+      var style = byId(tenant + "-fontfaces");
+      if (!style) {
+        injectFontFaces();
+        style = byId(tenant + "-fontfaces");
+      }
+      style.textContent += '@font-face{font-family:"' + product.id + '";src:url("' + product.previewWoff2 + '") format("woff2");font-display:swap;}';
     }
 
     function renderShell() {
@@ -124,6 +132,7 @@
     }
 
     function renderFontRow(product) {
+      ensureFontFace(product);
       var fontStyle = product.previewWoff2 ? ' style="font-family:' + safe(product.id) + ', Inter, sans-serif;"' : "";
       return '<article class="ge-font-row" data-ge-view="' + safe(product.id) + '"><div class="ge-font-mini"' + fontStyle + '>' + safe(product.title.replace(/\\s+(Sans|Serif)$/i, "")) + '</div><div><div class="ge-font-title"><h3>' + safe(product.title) + '</h3><span>' + safe(product.tag) + '</span></div><p class="ge-muted">' + safe(product.description) + '</p><p class="ge-credit">Designed by ' + safe(product.designer || "GB Family Type") + '</p><p class="ge-formats">' + safe((product.finalFormats || ["OTF", "TTF", "WOFF2"]).join(" / ")) + '</p></div><div class="ge-row-actions"><strong>' + money(product.price, config.currency) + '</strong><button data-ge-buy="' + safe(product.id) + '">Comprar</button><button class="ge-secondary" data-ge-add="' + safe(product.id) + '">Agregar</button></div></article>';
     }
@@ -176,6 +185,7 @@
     function showProduct(id) {
       var product = products.find(function (p) { return p.id === id; });
       if (!product) return;
+      ensureFontFace(product);
       var modal = byId(tenant + "-modal");
       if (product.category === "fonts") modal.innerHTML = renderFontDetail(product);
       else modal.innerHTML = '<article class="ge-modal-card"><button class="ge-secondary" data-ge-modal-close>Cerrar</button><span class="ge-thumb">' + safe(product.tag) + '</span><h2>' + safe(product.title) + '</h2><p>' + safe(product.description) + '</p><p class="ge-muted">Descarga disponible en cuenta despues de pago confirmado por webhook.</p><strong>' + money(product.price, config.currency) + '</strong><button data-ge-buy="' + safe(product.id) + '">Comprar</button></article>';
