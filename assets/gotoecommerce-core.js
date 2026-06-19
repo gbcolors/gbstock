@@ -133,7 +133,7 @@
 
     function renderFontRow(product) {
       ensureFontFace(product);
-      var fontStyle = product.previewWoff2 ? ' style="font-family:' + safe(product.id) + ', Inter, sans-serif;"' : "";
+      var fontStyle = ' style="font-family:' + safe(config.displayFontFamily || "GBstock Plus Grotesk") + ', Inter, sans-serif;"';
       return '<article class="ge-font-row" data-ge-view="' + safe(product.id) + '"><div class="ge-font-mini"' + fontStyle + '>' + safe(product.title.replace(/\\s+(Sans|Serif)$/i, "")) + '</div><div><div class="ge-font-title"><h3>' + safe(product.title) + '</h3><span>' + safe(product.tag) + '</span></div><p class="ge-muted">' + safe(product.description) + '</p><p class="ge-credit">Designed by ' + safe(product.designer || "GB Family Type") + ' · ' + safe((product.finalFormats || ["OTF", "TTF", "WOFF2"]).join(" / ")) + '</p></div><div class="ge-row-actions"><strong>' + money(product.price, config.currency) + '</strong><button data-ge-buy="' + safe(product.id) + '">Comprar</button><button class="ge-secondary" data-ge-add="' + safe(product.id) + '">Agregar</button></div></article>';
     }
 

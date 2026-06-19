@@ -1,0 +1,18 @@
+{
+  "family": "GBstock Plus Grotesk",
+  "slug": "gbstock-plus-grotesk",
+  "version": "1.0.0",
+  "owner": "GATO BRONCO COLORS CLOTHING ART FOOD SAS DE CV",
+  "designer": "GB Family Type",
+  "role": "brand-plus-display-font",
+  "designNotes": [
+    "S y T corregidas para lectura normal.",
+    "Construccion display de alto impacto con trazos solidos.",
+    "Pensada para GBstock y materiales ecommerce plus."
+  ],
+  "binaries": {
+    "otf": "releases/gbstock-plus-grotesk/1.0.0/otf/gbstock-plus-grotesk-regular.otf",
+    "ttf": "releases/gbstock-plus-grotesk/1.0.0/ttf/gbstock-plus-grotesk-regular.ttf",
+    "woff2": "releases/gbstock-plus-grotesk/1.0.0/woff2/gbstock-plus-grotesk-regular.woff2"
+  }
+}
