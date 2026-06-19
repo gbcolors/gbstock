@@ -97,7 +97,7 @@
         '<div class="ge-shell">',
         '<div class="ge-topbar"><span>GBstock digital foundry</span><strong>1046 activos listos para licenciar</strong><span>OTF / TTF / WOFF2 / ZIP</span></div>',
         '<header class="ge-header">',
-        '<a class="ge-brand" href="' + safe(config.basePath || "./") + '">' + (config.logoUrl ? '<img class="ge-logo-img" src="' + safe(config.logoUrl) + '" alt="' + safe(config.logoText || "GB") + '">' : '<span class="ge-logo">' + safe(config.logoText || "GB") + '</span>') + '<span><strong class="ge-wordmark">' + safe(config.brandName) + '</strong><small>' + safe(config.brandMeta) + '</small></span></a>',
+        '<a class="ge-brand" href="' + safe(config.basePath || "./") + '">' + (config.logoUrl ? '<img class="ge-logo-img" src="' + safe(config.logoUrl) + '" alt="' + safe(config.logoText || "GB") + '">' : '<span class="ge-logo">' + safe(config.logoText || "GB") + '</span>') + '<span><strong class="ge-wordmark">' + safe(config.brandName) + '</strong>' + (config.brandMeta ? '<small>' + safe(config.brandMeta) + '</small>' : '') + '</span></a>',
         '<nav class="ge-nav">' + categories.map(function (cat) { return '<a href="' + safe(cat.href) + '" data-ge-category="' + safe(cat.id) + '">' + safe(cat.label) + '</a>'; }).join("") + '</nav>',
         '<div class="ge-actions"><button class="ge-secondary" data-ge-account>Cuenta</button><button data-ge-cart>Carrito <span id="' + tenant + '-cart-count">0</span></button></div>',
         '</header>',
@@ -133,7 +133,7 @@
 
     function renderFontRow(product) {
       ensureFontFace(product);
-      var fontStyle = ' style="font-family:' + safe(config.displayFontFamily || "GBstock Plus Grotesk") + ', Inter, sans-serif;"';
+      var fontStyle = ' style="font-family:' + safe(config.displayFontFamily || "GBstock Plus Display") + ', Inter, sans-serif;"';
       return '<article class="ge-font-row" data-ge-view="' + safe(product.id) + '"><div class="ge-font-mini"' + fontStyle + '>' + safe(product.title.replace(/\\s+(Sans|Serif)$/i, "")) + '</div><div><div class="ge-font-title"><h3>' + safe(product.title) + '</h3><span>' + safe(product.tag) + '</span></div><p class="ge-muted">' + safe(product.description) + '</p><p class="ge-credit">Designed by ' + safe(product.designer || "GB Family Type") + ' · ' + safe((product.finalFormats || ["OTF", "TTF", "WOFF2"]).join(" / ")) + '</p></div><div class="ge-row-actions"><strong>' + money(product.price, config.currency) + '</strong><button data-ge-buy="' + safe(product.id) + '">Comprar</button><button class="ge-secondary" data-ge-add="' + safe(product.id) + '">Agregar</button></div></article>';
     }
 

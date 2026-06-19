@@ -1,7 +1,7 @@
 window.GBSTOCK_STORE_CONFIG = {
   "tenantId": "gbstock",
   "brandName": "GBstock",
-  "brandMeta": "Ecosistema GB",
+  "brandMeta": "",
   "logoText": "GB",
   "logoUrl": "./assets/brand/gb-air-06-azul-letras-blancas.png",
   "basePath": "./",
