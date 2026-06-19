@@ -1,0 +1,20 @@
+{
+  "family": "Bar Avenue 890 Sans",
+  "slug": "gbbiz-bar-avenue-890-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Bar",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a bar, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-bar-avenue-890-sans/1.0.0/otf/gbbiz-bar-avenue-890-sans-regular.otf",
+    "ttf": "releases/gbbiz-bar-avenue-890-sans/1.0.0/ttf/gbbiz-bar-avenue-890-sans-regular.ttf",
+    "woff2": "releases/gbbiz-bar-avenue-890-sans/1.0.0/woff2/gbbiz-bar-avenue-890-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 280,
+    "commercial": 840,
+    "extended": 2520
+  }
+}

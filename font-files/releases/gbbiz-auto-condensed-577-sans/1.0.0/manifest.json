@@ -1,0 +1,20 @@
+{
+  "family": "Auto Condensed 577 Sans",
+  "slug": "gbbiz-auto-condensed-577-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Auto",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a auto, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-auto-condensed-577-sans/1.0.0/otf/gbbiz-auto-condensed-577-sans-regular.otf",
+    "ttf": "releases/gbbiz-auto-condensed-577-sans/1.0.0/ttf/gbbiz-auto-condensed-577-sans-regular.ttf",
+    "woff2": "releases/gbbiz-auto-condensed-577-sans/1.0.0/woff2/gbbiz-auto-condensed-577-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 260,
+    "commercial": 780,
+    "extended": 2340
+  }
+}

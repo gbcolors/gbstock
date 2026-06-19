@@ -1,0 +1,19 @@
+{
+  "family": "Arciforma Sans",
+  "slug": "gbplus-arciforma-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Plus",
+  "designer": "Gato Bronco Type Develop",
+  "tone": "geometrica redondeada limpia, marca y producto digital",
+  "status": "final",
+  "binaries": {
+    "otf": "releases/gbplus-arciforma-sans/1.0.0/otf/gbplus-arciforma-sans-regular.otf",
+    "ttf": "releases/gbplus-arciforma-sans/1.0.0/ttf/gbplus-arciforma-sans-regular.ttf",
+    "woff2": "releases/gbplus-arciforma-sans/1.0.0/woff2/gbplus-arciforma-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 590,
+    "commercial": 1770,
+    "extended": 5310
+  }
+}

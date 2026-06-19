@@ -1,0 +1,20 @@
+{
+  "family": "Boutique Central 965 Serif",
+  "slug": "gbbiz-boutique-central-965-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Boutique",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a boutique, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-boutique-central-965-serif/1.0.0/otf/gbbiz-boutique-central-965-serif-regular.otf",
+    "ttf": "releases/gbbiz-boutique-central-965-serif/1.0.0/ttf/gbbiz-boutique-central-965-serif-regular.ttf",
+    "woff2": "releases/gbbiz-boutique-central-965-serif/1.0.0/woff2/gbbiz-boutique-central-965-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 340,
+    "commercial": 1020,
+    "extended": 3060
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Food Friendly 554 Sans",
+  "slug": "gbbiz-food-friendly-554-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Food",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a food, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-food-friendly-554-sans/1.0.0/otf/gbbiz-food-friendly-554-sans-regular.otf",
+    "ttf": "releases/gbbiz-food-friendly-554-sans/1.0.0/ttf/gbbiz-food-friendly-554-sans-regular.ttf",
+    "woff2": "releases/gbbiz-food-friendly-554-sans/1.0.0/woff2/gbbiz-food-friendly-554-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 280,
+    "commercial": 840,
+    "extended": 2520
+  }
+}

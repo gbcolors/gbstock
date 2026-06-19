@@ -1,0 +1,20 @@
+{
+  "family": "Market Classic 404 Sans",
+  "slug": "gbbiz-market-classic-404-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Market",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a market, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-market-classic-404-sans/1.0.0/otf/gbbiz-market-classic-404-sans-regular.otf",
+    "ttf": "releases/gbbiz-market-classic-404-sans/1.0.0/ttf/gbbiz-market-classic-404-sans-regular.ttf",
+    "woff2": "releases/gbbiz-market-classic-404-sans/1.0.0/woff2/gbbiz-market-classic-404-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 400,
+    "commercial": 1200,
+    "extended": 3600
+  }
+}

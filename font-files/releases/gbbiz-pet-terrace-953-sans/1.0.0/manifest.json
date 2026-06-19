@@ -1,0 +1,20 @@
+{
+  "family": "Pet Terrace 953 Sans",
+  "slug": "gbbiz-pet-terrace-953-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Pet",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a pet, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-pet-terrace-953-sans/1.0.0/otf/gbbiz-pet-terrace-953-sans-regular.otf",
+    "ttf": "releases/gbbiz-pet-terrace-953-sans/1.0.0/ttf/gbbiz-pet-terrace-953-sans-regular.ttf",
+    "woff2": "releases/gbbiz-pet-terrace-953-sans/1.0.0/woff2/gbbiz-pet-terrace-953-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 340,
+    "commercial": 1020,
+    "extended": 3060
+  }
+}

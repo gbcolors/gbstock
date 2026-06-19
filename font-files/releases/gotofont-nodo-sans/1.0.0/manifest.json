@@ -1,0 +1,23 @@
+{
+  "family": "gotofont Nodo Sans",
+  "slug": "gotofont-nodo-sans",
+  "version": "1.0.0",
+  "brandPrefix": "gotofont",
+  "style": "Regular",
+  "suffix": "Sans",
+  "tone": "tecnologica, modular, interfaces y dashboards",
+  "generatedAt": "2026-06-19T08:39:03.553Z",
+  "sourceFormat": "opentype-generated-from-gotofont-original-contours",
+  "status": "ready_for_review",
+  "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
+  "binaries": {
+    "otf": "releases/gotofont-nodo-sans/1.0.0/otf/gotofont-nodo-sans-regular.otf",
+    "ttf": "releases/gotofont-nodo-sans/1.0.0/ttf/gotofont-nodo-sans-regular.ttf",
+    "woff2": "releases/gotofont-nodo-sans/1.0.0/woff2/gotofont-nodo-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 360,
+    "commercial": 1080,
+    "extended": 3240
+  }
+}

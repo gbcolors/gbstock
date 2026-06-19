@@ -1,0 +1,19 @@
+{
+  "family": "Agonia Sans",
+  "slug": "gbplus-agonia-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Plus",
+  "designer": "GB Family Type",
+  "tone": "bold rounded, memorable, friendly y con presencia",
+  "status": "final",
+  "binaries": {
+    "otf": "releases/gbplus-agonia-sans/1.0.0/otf/gbplus-agonia-sans-regular.otf",
+    "ttf": "releases/gbplus-agonia-sans/1.0.0/ttf/gbplus-agonia-sans-regular.ttf",
+    "woff2": "releases/gbplus-agonia-sans/1.0.0/woff2/gbplus-agonia-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 560,
+    "commercial": 1680,
+    "extended": 5040
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Studio Minimal 693 Sans",
+  "slug": "gbbiz-studio-minimal-693-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Studio",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a studio, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-studio-minimal-693-sans/1.0.0/otf/gbbiz-studio-minimal-693-sans-regular.otf",
+    "ttf": "releases/gbbiz-studio-minimal-693-sans/1.0.0/ttf/gbbiz-studio-minimal-693-sans-regular.ttf",
+    "woff2": "releases/gbbiz-studio-minimal-693-sans/1.0.0/woff2/gbbiz-studio-minimal-693-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 420,
+    "commercial": 1260,
+    "extended": 3780
+  }
+}

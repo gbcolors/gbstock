@@ -1,0 +1,20 @@
+{
+  "family": "Salon Scriptless 659 Sans",
+  "slug": "gbbiz-salon-scriptless-659-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Salon",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a salon, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-salon-scriptless-659-sans/1.0.0/otf/gbbiz-salon-scriptless-659-sans-regular.otf",
+    "ttf": "releases/gbbiz-salon-scriptless-659-sans/1.0.0/ttf/gbbiz-salon-scriptless-659-sans-regular.ttf",
+    "woff2": "releases/gbbiz-salon-scriptless-659-sans/1.0.0/woff2/gbbiz-salon-scriptless-659-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 460,
+    "commercial": 1380,
+    "extended": 4140
+  }
+}

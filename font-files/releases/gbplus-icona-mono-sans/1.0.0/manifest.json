@@ -1,0 +1,19 @@
+{
+  "family": "Icona Mono Sans",
+  "slug": "gbplus-icona-mono-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Plus",
+  "designer": "Goto Family Type",
+  "tone": "monotipo pesado para titulares, kits e identidad contundente",
+  "status": "final",
+  "binaries": {
+    "otf": "releases/gbplus-icona-mono-sans/1.0.0/otf/gbplus-icona-mono-sans-regular.otf",
+    "ttf": "releases/gbplus-icona-mono-sans/1.0.0/ttf/gbplus-icona-mono-sans-regular.ttf",
+    "woff2": "releases/gbplus-icona-mono-sans/1.0.0/woff2/gbplus-icona-mono-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 560,
+    "commercial": 1680,
+    "extended": 5040
+  }
+}

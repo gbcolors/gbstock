@@ -1,0 +1,20 @@
+{
+  "family": "Event Sign 225 Sans",
+  "slug": "gbbiz-event-sign-225-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Event",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a event, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-event-sign-225-sans/1.0.0/otf/gbbiz-event-sign-225-sans-regular.otf",
+    "ttf": "releases/gbbiz-event-sign-225-sans/1.0.0/ttf/gbbiz-event-sign-225-sans-regular.ttf",
+    "woff2": "releases/gbbiz-event-sign-225-sans/1.0.0/woff2/gbbiz-event-sign-225-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 420,
+    "commercial": 1260,
+    "extended": 3780
+  }
+}

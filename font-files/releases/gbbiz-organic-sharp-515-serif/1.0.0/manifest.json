@@ -1,0 +1,20 @@
+{
+  "family": "Organic Sharp 515 Serif",
+  "slug": "gbbiz-organic-sharp-515-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Organic",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a organic, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-organic-sharp-515-serif/1.0.0/otf/gbbiz-organic-sharp-515-serif-regular.otf",
+    "ttf": "releases/gbbiz-organic-sharp-515-serif/1.0.0/ttf/gbbiz-organic-sharp-515-serif-regular.ttf",
+    "woff2": "releases/gbbiz-organic-sharp-515-serif/1.0.0/woff2/gbbiz-organic-sharp-515-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 460,
+    "commercial": 1380,
+    "extended": 4140
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Restaurant Elegant 442 Sans",
+  "slug": "gbbiz-restaurant-elegant-442-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Restaurant",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a restaurant, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-restaurant-elegant-442-sans/1.0.0/otf/gbbiz-restaurant-elegant-442-sans-regular.otf",
+    "ttf": "releases/gbbiz-restaurant-elegant-442-sans/1.0.0/ttf/gbbiz-restaurant-elegant-442-sans-regular.ttf",
+    "woff2": "releases/gbbiz-restaurant-elegant-442-sans/1.0.0/woff2/gbbiz-restaurant-elegant-442-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 440,
+    "commercial": 1320,
+    "extended": 3960
+  }
+}

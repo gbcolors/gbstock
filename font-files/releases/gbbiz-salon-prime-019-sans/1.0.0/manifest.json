@@ -1,0 +1,20 @@
+{
+  "family": "Salon Prime 019 Sans",
+  "slug": "gbbiz-salon-prime-019-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Salon",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a salon, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-salon-prime-019-sans/1.0.0/otf/gbbiz-salon-prime-019-sans-regular.otf",
+    "ttf": "releases/gbbiz-salon-prime-019-sans/1.0.0/ttf/gbbiz-salon-prime-019-sans-regular.ttf",
+    "woff2": "releases/gbbiz-salon-prime-019-sans/1.0.0/woff2/gbbiz-salon-prime-019-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 380,
+    "commercial": 1140,
+    "extended": 3420
+  }
+}

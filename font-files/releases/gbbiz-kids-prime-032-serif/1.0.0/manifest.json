@@ -1,0 +1,20 @@
+{
+  "family": "Kids Prime 032 Serif",
+  "slug": "gbbiz-kids-prime-032-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Kids",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a kids, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-kids-prime-032-serif/1.0.0/otf/gbbiz-kids-prime-032-serif-regular.otf",
+    "ttf": "releases/gbbiz-kids-prime-032-serif/1.0.0/ttf/gbbiz-kids-prime-032-serif-regular.ttf",
+    "woff2": "releases/gbbiz-kids-prime-032-serif/1.0.0/woff2/gbbiz-kids-prime-032-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 400,
+    "commercial": 1200,
+    "extended": 3600
+  }
+}

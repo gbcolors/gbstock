@@ -1,0 +1,20 @@
+{
+  "family": "Travel Sign 226 Serif",
+  "slug": "gbbiz-travel-sign-226-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Travel",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a travel, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-travel-sign-226-serif/1.0.0/otf/gbbiz-travel-sign-226-serif-regular.otf",
+    "ttf": "releases/gbbiz-travel-sign-226-serif/1.0.0/ttf/gbbiz-travel-sign-226-serif-regular.ttf",
+    "woff2": "releases/gbbiz-travel-sign-226-serif/1.0.0/woff2/gbbiz-travel-sign-226-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 440,
+    "commercial": 1320,
+    "extended": 3960
+  }
+}

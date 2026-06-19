@@ -1,0 +1,20 @@
+{
+  "family": "Agency Poster 252 Sans",
+  "slug": "gbbiz-agency-poster-252-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Agency",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a agency, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-agency-poster-252-sans/1.0.0/otf/gbbiz-agency-poster-252-sans-regular.otf",
+    "ttf": "releases/gbbiz-agency-poster-252-sans/1.0.0/ttf/gbbiz-agency-poster-252-sans-regular.ttf",
+    "woff2": "releases/gbbiz-agency-poster-252-sans/1.0.0/woff2/gbbiz-agency-poster-252-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 480,
+    "commercial": 1440,
+    "extended": 4320
+  }
+}

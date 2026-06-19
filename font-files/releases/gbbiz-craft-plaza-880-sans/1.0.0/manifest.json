@@ -1,0 +1,20 @@
+{
+  "family": "Craft Plaza 880 Sans",
+  "slug": "gbbiz-craft-plaza-880-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Craft",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a craft, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-craft-plaza-880-sans/1.0.0/otf/gbbiz-craft-plaza-880-sans-regular.otf",
+    "ttf": "releases/gbbiz-craft-plaza-880-sans/1.0.0/ttf/gbbiz-craft-plaza-880-sans-regular.ttf",
+    "woff2": "releases/gbbiz-craft-plaza-880-sans/1.0.0/woff2/gbbiz-craft-plaza-880-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 320,
+    "commercial": 960,
+    "extended": 2880
+  }
+}

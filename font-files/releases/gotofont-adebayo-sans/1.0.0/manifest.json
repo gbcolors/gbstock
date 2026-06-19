@@ -1,0 +1,23 @@
+{
+  "family": "gotofont Adebayo Sans",
+  "slug": "gotofont-adebayo-sans",
+  "version": "1.0.0",
+  "brandPrefix": "gotofont",
+  "style": "Regular",
+  "suffix": "Sans",
+  "tone": "mascotas, moderna, divertida, juvenil y comercial",
+  "generatedAt": "2026-06-19T08:39:02.272Z",
+  "sourceFormat": "opentype-generated-from-gotofont-original-contours",
+  "status": "ready_for_review",
+  "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
+  "binaries": {
+    "otf": "releases/gotofont-adebayo-sans/1.0.0/otf/gotofont-adebayo-sans-regular.otf",
+    "ttf": "releases/gotofont-adebayo-sans/1.0.0/ttf/gotofont-adebayo-sans-regular.ttf",
+    "woff2": "releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 390,
+    "commercial": 1170,
+    "extended": 3510
+  }
+}

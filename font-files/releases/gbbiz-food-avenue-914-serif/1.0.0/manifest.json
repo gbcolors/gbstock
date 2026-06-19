@@ -1,0 +1,20 @@
+{
+  "family": "Food Avenue 914 Serif",
+  "slug": "gbbiz-food-avenue-914-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Food",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a food, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-food-avenue-914-serif/1.0.0/otf/gbbiz-food-avenue-914-serif-regular.otf",
+    "ttf": "releases/gbbiz-food-avenue-914-serif/1.0.0/ttf/gbbiz-food-avenue-914-serif-regular.ttf",
+    "woff2": "releases/gbbiz-food-avenue-914-serif/1.0.0/woff2/gbbiz-food-avenue-914-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 280,
+    "commercial": 840,
+    "extended": 2520
+  }
+}

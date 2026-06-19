@@ -1,0 +1,20 @@
+{
+  "family": "Music Avenue 904 Sans",
+  "slug": "gbbiz-music-avenue-904-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Music",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a music, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-music-avenue-904-sans/1.0.0/otf/gbbiz-music-avenue-904-sans-regular.otf",
+    "ttf": "releases/gbbiz-music-avenue-904-sans/1.0.0/ttf/gbbiz-music-avenue-904-sans-regular.ttf",
+    "woff2": "releases/gbbiz-music-avenue-904-sans/1.0.0/woff2/gbbiz-music-avenue-904-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 320,
+    "commercial": 960,
+    "extended": 2880
+  }
+}

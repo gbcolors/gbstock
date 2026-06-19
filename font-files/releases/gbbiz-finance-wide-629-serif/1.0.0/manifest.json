@@ -1,0 +1,20 @@
+{
+  "family": "Finance Wide 629 Serif",
+  "slug": "gbbiz-finance-wide-629-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Finance",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a finance, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-finance-wide-629-serif/1.0.0/otf/gbbiz-finance-wide-629-serif-regular.otf",
+    "ttf": "releases/gbbiz-finance-wide-629-serif/1.0.0/ttf/gbbiz-finance-wide-629-serif-regular.ttf",
+    "woff2": "releases/gbbiz-finance-wide-629-serif/1.0.0/woff2/gbbiz-finance-wide-629-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 340,
+    "commercial": 1020,
+    "extended": 3060
+  }
+}

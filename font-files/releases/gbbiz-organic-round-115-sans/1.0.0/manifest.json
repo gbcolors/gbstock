@@ -1,0 +1,20 @@
+{
+  "family": "Organic Round 115 Sans",
+  "slug": "gbbiz-organic-round-115-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Organic",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a organic, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-organic-round-115-sans/1.0.0/otf/gbbiz-organic-round-115-sans-regular.otf",
+    "ttf": "releases/gbbiz-organic-round-115-sans/1.0.0/ttf/gbbiz-organic-round-115-sans-regular.ttf",
+    "woff2": "releases/gbbiz-organic-round-115-sans/1.0.0/woff2/gbbiz-organic-round-115-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 380,
+    "commercial": 1140,
+    "extended": 3420
+  }
+}

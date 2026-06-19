@@ -1,0 +1,20 @@
+{
+  "family": "Cafe Condensed 566 Serif",
+  "slug": "gbbiz-cafe-condensed-566-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Cafe",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a cafe, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-cafe-condensed-566-serif/1.0.0/otf/gbbiz-cafe-condensed-566-serif-regular.otf",
+    "ttf": "releases/gbbiz-cafe-condensed-566-serif/1.0.0/ttf/gbbiz-cafe-condensed-566-serif-regular.ttf",
+    "woff2": "releases/gbbiz-cafe-condensed-566-serif/1.0.0/woff2/gbbiz-cafe-condensed-566-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 280,
+    "commercial": 840,
+    "extended": 2520
+  }
+}

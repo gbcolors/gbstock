@@ -1,0 +1,20 @@
+{
+  "family": "Luxury Terrace 956 Serif",
+  "slug": "gbbiz-luxury-terrace-956-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Luxury",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a luxury, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-luxury-terrace-956-serif/1.0.0/otf/gbbiz-luxury-terrace-956-serif-regular.otf",
+    "ttf": "releases/gbbiz-luxury-terrace-956-serif/1.0.0/ttf/gbbiz-luxury-terrace-956-serif-regular.ttf",
+    "woff2": "releases/gbbiz-luxury-terrace-956-serif/1.0.0/woff2/gbbiz-luxury-terrace-956-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 400,
+    "commercial": 1200,
+    "extended": 3600
+  }
+}

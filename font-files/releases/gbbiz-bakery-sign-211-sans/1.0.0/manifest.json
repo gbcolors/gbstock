@@ -1,0 +1,20 @@
+{
+  "family": "Bakery Sign 211 Sans",
+  "slug": "gbbiz-bakery-sign-211-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Bakery",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a bakery, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-bakery-sign-211-sans/1.0.0/otf/gbbiz-bakery-sign-211-sans-regular.otf",
+    "ttf": "releases/gbbiz-bakery-sign-211-sans/1.0.0/ttf/gbbiz-bakery-sign-211-sans-regular.ttf",
+    "woff2": "releases/gbbiz-bakery-sign-211-sans/1.0.0/woff2/gbbiz-bakery-sign-211-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 380,
+    "commercial": 1140,
+    "extended": 3420
+  }
+}

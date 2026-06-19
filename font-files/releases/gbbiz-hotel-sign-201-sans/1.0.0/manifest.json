@@ -1,0 +1,20 @@
+{
+  "family": "Hotel Sign 201 Sans",
+  "slug": "gbbiz-hotel-sign-201-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Hotel",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a hotel, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-hotel-sign-201-sans/1.0.0/otf/gbbiz-hotel-sign-201-sans-regular.otf",
+    "ttf": "releases/gbbiz-hotel-sign-201-sans/1.0.0/ttf/gbbiz-hotel-sign-201-sans-regular.ttf",
+    "woff2": "releases/gbbiz-hotel-sign-201-sans/1.0.0/woff2/gbbiz-hotel-sign-201-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 420,
+    "commercial": 1260,
+    "extended": 3780
+  }
+}

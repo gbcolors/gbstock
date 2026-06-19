@@ -1,0 +1,20 @@
+{
+  "family": "Pet Avenue 913 Sans",
+  "slug": "gbbiz-pet-avenue-913-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Pet",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a pet, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-pet-avenue-913-sans/1.0.0/otf/gbbiz-pet-avenue-913-sans-regular.otf",
+    "ttf": "releases/gbbiz-pet-avenue-913-sans/1.0.0/ttf/gbbiz-pet-avenue-913-sans-regular.ttf",
+    "woff2": "releases/gbbiz-pet-avenue-913-sans/1.0.0/woff2/gbbiz-pet-avenue-913-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 260,
+    "commercial": 780,
+    "extended": 2340
+  }
+}

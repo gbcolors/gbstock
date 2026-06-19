@@ -1,0 +1,20 @@
+{
+  "family": "Food Round 114 Serif",
+  "slug": "gbbiz-food-round-114-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Food",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a food, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-food-round-114-serif/1.0.0/otf/gbbiz-food-round-114-serif-regular.otf",
+    "ttf": "releases/gbbiz-food-round-114-serif/1.0.0/ttf/gbbiz-food-round-114-serif-regular.ttf",
+    "woff2": "releases/gbbiz-food-round-114-serif/1.0.0/woff2/gbbiz-food-round-114-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 360,
+    "commercial": 1080,
+    "extended": 3240
+  }
+}

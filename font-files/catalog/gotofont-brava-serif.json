@@ -1,0 +1,23 @@
+{
+  "family": "gotofont Brava Serif",
+  "slug": "gotofont-brava-serif",
+  "version": "1.0.0",
+  "brandPrefix": "gotofont",
+  "style": "Regular",
+  "suffix": "Serif",
+  "tone": "editorial, elegante, boutique y coleccion",
+  "generatedAt": "2026-06-19T08:39:03.418Z",
+  "sourceFormat": "opentype-generated-from-gotofont-original-contours",
+  "status": "ready_for_review",
+  "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
+  "binaries": {
+    "otf": "releases/gotofont-brava-serif/1.0.0/otf/gotofont-brava-serif-regular.otf",
+    "ttf": "releases/gotofont-brava-serif/1.0.0/ttf/gotofont-brava-serif-regular.ttf",
+    "woff2": "releases/gotofont-brava-serif/1.0.0/woff2/gotofont-brava-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 420,
+    "commercial": 1260,
+    "extended": 3780
+  }
+}

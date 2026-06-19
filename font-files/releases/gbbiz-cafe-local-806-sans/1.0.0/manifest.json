@@ -1,0 +1,20 @@
+{
+  "family": "Cafe Local 806 Sans",
+  "slug": "gbbiz-cafe-local-806-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Cafe",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a cafe, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-cafe-local-806-sans/1.0.0/otf/gbbiz-cafe-local-806-sans-regular.otf",
+    "ttf": "releases/gbbiz-cafe-local-806-sans/1.0.0/ttf/gbbiz-cafe-local-806-sans-regular.ttf",
+    "woff2": "releases/gbbiz-cafe-local-806-sans/1.0.0/woff2/gbbiz-cafe-local-806-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 280,
+    "commercial": 840,
+    "extended": 2520
+  }
+}

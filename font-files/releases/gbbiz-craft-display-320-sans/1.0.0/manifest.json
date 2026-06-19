@@ -1,0 +1,20 @@
+{
+  "family": "Craft Display 320 Sans",
+  "slug": "gbbiz-craft-display-320-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Craft",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a craft, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-craft-display-320-sans/1.0.0/otf/gbbiz-craft-display-320-sans-regular.otf",
+    "ttf": "releases/gbbiz-craft-display-320-sans/1.0.0/ttf/gbbiz-craft-display-320-sans-regular.ttf",
+    "woff2": "releases/gbbiz-craft-display-320-sans/1.0.0/woff2/gbbiz-craft-display-320-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 400,
+    "commercial": 1200,
+    "extended": 3600
+  }
+}

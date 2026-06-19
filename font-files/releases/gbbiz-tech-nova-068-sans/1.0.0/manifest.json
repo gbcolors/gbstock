@@ -1,0 +1,20 @@
+{
+  "family": "Tech Nova 068 Sans",
+  "slug": "gbbiz-tech-nova-068-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Tech",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a tech, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-tech-nova-068-sans/1.0.0/otf/gbbiz-tech-nova-068-sans-regular.otf",
+    "ttf": "releases/gbbiz-tech-nova-068-sans/1.0.0/ttf/gbbiz-tech-nova-068-sans-regular.ttf",
+    "woff2": "releases/gbbiz-tech-nova-068-sans/1.0.0/woff2/gbbiz-tech-nova-068-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 400,
+    "commercial": 1200,
+    "extended": 3600
+  }
+}

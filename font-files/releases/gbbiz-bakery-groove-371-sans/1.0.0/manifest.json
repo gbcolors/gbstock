@@ -1,0 +1,20 @@
+{
+  "family": "Bakery Groove 371 Sans",
+  "slug": "gbbiz-bakery-groove-371-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Bakery",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a bakery, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-bakery-groove-371-sans/1.0.0/otf/gbbiz-bakery-groove-371-sans-regular.otf",
+    "ttf": "releases/gbbiz-bakery-groove-371-sans/1.0.0/ttf/gbbiz-bakery-groove-371-sans-regular.ttf",
+    "woff2": "releases/gbbiz-bakery-groove-371-sans/1.0.0/woff2/gbbiz-bakery-groove-371-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 460,
+    "commercial": 1380,
+    "extended": 4140
+  }
+}

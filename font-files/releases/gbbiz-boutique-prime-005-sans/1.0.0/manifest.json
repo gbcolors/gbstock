@@ -1,0 +1,20 @@
+{
+  "family": "Boutique Prime 005 Sans",
+  "slug": "gbbiz-boutique-prime-005-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Boutique",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a boutique, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-boutique-prime-005-sans/1.0.0/otf/gbbiz-boutique-prime-005-sans-regular.otf",
+    "ttf": "releases/gbbiz-boutique-prime-005-sans/1.0.0/ttf/gbbiz-boutique-prime-005-sans-regular.ttf",
+    "woff2": "releases/gbbiz-boutique-prime-005-sans/1.0.0/woff2/gbbiz-boutique-prime-005-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 340,
+    "commercial": 1020,
+    "extended": 3060
+  }
+}

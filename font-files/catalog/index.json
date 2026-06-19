@@ -1,0 +1,489 @@
+{
+  "generatedAt": "2026-06-19T08:39:06.305Z",
+  "count": 21,
+  "products": [
+    {
+      "id": "font-gotofont-gotostock-sans",
+      "store": "gbstock",
+      "title": "gotofont GotoStock Sans",
+      "slug": "gotofont-gotostock-sans",
+      "sku": "GBS-FONT-GOTOFONT-GOTOSTOCK-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "tipografia de tienda, moderna, clara, digital y comercial para catalogo GBstock",
+      "priceFrom": 0,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 0,
+        "commercial": 0,
+        "extended": 0
+      },
+      "files": {
+        "otf": "releases/gotofont-gotostock-sans/1.0.0/otf/gotofont-gotostock-sans-regular.otf",
+        "ttf": "releases/gotofont-gotostock-sans/1.0.0/ttf/gotofont-gotostock-sans-regular.ttf",
+        "woff2": "releases/gotofont-gotostock-sans/1.0.0/woff2/gotofont-gotostock-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-gotostock-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-adebayo-sans",
+      "store": "gbstock",
+      "title": "gotofont Adebayo Sans",
+      "slug": "gotofont-adebayo-sans",
+      "sku": "GBS-FONT-GOTOFONT-ADEBAYO-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "mascotas, moderna, divertida, juvenil y comercial",
+      "priceFrom": 390,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 390,
+        "commercial": 1170,
+        "extended": 3510
+      },
+      "files": {
+        "otf": "releases/gotofont-adebayo-sans/1.0.0/otf/gotofont-adebayo-sans-regular.otf",
+        "ttf": "releases/gotofont-adebayo-sans/1.0.0/ttf/gotofont-adebayo-sans-regular.ttf",
+        "woff2": "releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-adebayo-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-rufus-sans",
+      "store": "gbstock",
+      "title": "gotofont Rufus Sans",
+      "slug": "gotofont-rufus-sans",
+      "sku": "GBS-FONT-GOTOFONT-RUFUS-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "amistosa, redonda, cercana y de marca casual",
+      "priceFrom": 340,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 340,
+        "commercial": 1020,
+        "extended": 3060
+      },
+      "files": {
+        "otf": "releases/gotofont-rufus-sans/1.0.0/otf/gotofont-rufus-sans-regular.otf",
+        "ttf": "releases/gotofont-rufus-sans/1.0.0/ttf/gotofont-rufus-sans-regular.ttf",
+        "woff2": "releases/gotofont-rufus-sans/1.0.0/woff2/gotofont-rufus-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-rufus-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-lita-sans",
+      "store": "gbstock",
+      "title": "gotofont Lita Sans",
+      "slug": "gotofont-lita-sans",
+      "sku": "GBS-FONT-GOTOFONT-LITA-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "ligera, fresca, editorial juvenil y limpia",
+      "priceFrom": 330,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 330,
+        "commercial": 990,
+        "extended": 2970
+      },
+      "files": {
+        "otf": "releases/gotofont-lita-sans/1.0.0/otf/gotofont-lita-sans-regular.otf",
+        "ttf": "releases/gotofont-lita-sans/1.0.0/ttf/gotofont-lita-sans-regular.ttf",
+        "woff2": "releases/gotofont-lita-sans/1.0.0/woff2/gotofont-lita-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-lita-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-sarpas-sans",
+      "store": "gbstock",
+      "title": "gotofont Sarpas Sans",
+      "slug": "gotofont-sarpas-sans",
+      "sku": "GBS-FONT-GOTOFONT-SARPAS-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "energica, deportiva, compacta y con caracter",
+      "priceFrom": 360,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 360,
+        "commercial": 1080,
+        "extended": 3240
+      },
+      "files": {
+        "otf": "releases/gotofont-sarpas-sans/1.0.0/otf/gotofont-sarpas-sans-regular.otf",
+        "ttf": "releases/gotofont-sarpas-sans/1.0.0/ttf/gotofont-sarpas-sans-regular.ttf",
+        "woff2": "releases/gotofont-sarpas-sans/1.0.0/woff2/gotofont-sarpas-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-sarpas-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-turist-business-sans",
+      "store": "gbstock",
+      "title": "gotofont Turist Business Sans",
+      "slug": "gotofont-turist-business-sans",
+      "sku": "GBS-FONT-GOTOFONT-TURIST-BUSINESS-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "viaje, negocios, senaletica premium y presentaciones",
+      "priceFrom": 420,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 420,
+        "commercial": 1260,
+        "extended": 3780
+      },
+      "files": {
+        "otf": "releases/gotofont-turist-business-sans/1.0.0/otf/gotofont-turist-business-sans-regular.otf",
+        "ttf": "releases/gotofont-turist-business-sans/1.0.0/ttf/gotofont-turist-business-sans-regular.ttf",
+        "woff2": "releases/gotofont-turist-business-sans/1.0.0/woff2/gotofont-turist-business-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-turist-business-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-brava-serif",
+      "store": "gbstock",
+      "title": "gotofont Brava Serif",
+      "slug": "gotofont-brava-serif",
+      "sku": "GBS-FONT-GOTOFONT-BRAVA-SERIF",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "editorial, elegante, boutique y coleccion",
+      "priceFrom": 420,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 420,
+        "commercial": 1260,
+        "extended": 3780
+      },
+      "files": {
+        "otf": "releases/gotofont-brava-serif/1.0.0/otf/gotofont-brava-serif-regular.otf",
+        "ttf": "releases/gotofont-brava-serif/1.0.0/ttf/gotofont-brava-serif-regular.ttf",
+        "woff2": "releases/gotofont-brava-serif/1.0.0/woff2/gotofont-brava-serif-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-brava-serif/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-nodo-sans",
+      "store": "gbstock",
+      "title": "gotofont Nodo Sans",
+      "slug": "gotofont-nodo-sans",
+      "sku": "GBS-FONT-GOTOFONT-NODO-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "tecnologica, modular, interfaces y dashboards",
+      "priceFrom": 360,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 360,
+        "commercial": 1080,
+        "extended": 3240
+      },
+      "files": {
+        "otf": "releases/gotofont-nodo-sans/1.0.0/otf/gotofont-nodo-sans-regular.otf",
+        "ttf": "releases/gotofont-nodo-sans/1.0.0/ttf/gotofont-nodo-sans-regular.ttf",
+        "woff2": "releases/gotofont-nodo-sans/1.0.0/woff2/gotofont-nodo-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-nodo-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-marea-sans",
+      "store": "gbstock",
+      "title": "gotofont Marea Sans",
+      "slug": "gotofont-marea-sans",
+      "sku": "GBS-FONT-GOTOFONT-MAREA-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "suave, veraniega, lifestyle y retail",
+      "priceFrom": 350,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 350,
+        "commercial": 1050,
+        "extended": 3150
+      },
+      "files": {
+        "otf": "releases/gotofont-marea-sans/1.0.0/otf/gotofont-marea-sans-regular.otf",
+        "ttf": "releases/gotofont-marea-sans/1.0.0/ttf/gotofont-marea-sans-regular.ttf",
+        "woff2": "releases/gotofont-marea-sans/1.0.0/woff2/gotofont-marea-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-marea-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-cobre-serif",
+      "store": "gbstock",
+      "title": "gotofont Cobre Serif",
+      "slug": "gotofont-cobre-serif",
+      "sku": "GBS-FONT-GOTOFONT-COBRE-SERIF",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "artesanal, premium, galeria y empaques",
+      "priceFrom": 430,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 430,
+        "commercial": 1290,
+        "extended": 3870
+      },
+      "files": {
+        "otf": "releases/gotofont-cobre-serif/1.0.0/otf/gotofont-cobre-serif-regular.otf",
+        "ttf": "releases/gotofont-cobre-serif/1.0.0/ttf/gotofont-cobre-serif-regular.ttf",
+        "woff2": "releases/gotofont-cobre-serif/1.0.0/woff2/gotofont-cobre-serif-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-cobre-serif/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-kumo-sans",
+      "store": "gbstock",
+      "title": "gotofont Kumo Sans",
+      "slug": "gotofont-kumo-sans",
+      "sku": "GBS-FONT-GOTOFONT-KUMO-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "blanda, amable, apps infantiles y productos cute",
+      "priceFrom": 360,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 360,
+        "commercial": 1080,
+        "extended": 3240
+      },
+      "files": {
+        "otf": "releases/gotofont-kumo-sans/1.0.0/otf/gotofont-kumo-sans-regular.otf",
+        "ttf": "releases/gotofont-kumo-sans/1.0.0/ttf/gotofont-kumo-sans-regular.ttf",
+        "woff2": "releases/gotofont-kumo-sans/1.0.0/woff2/gotofont-kumo-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-kumo-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-prisma-sans",
+      "store": "gbstock",
+      "title": "gotofont Prisma Sans",
+      "slug": "gotofont-prisma-sans",
+      "sku": "GBS-FONT-GOTOFONT-PRISMA-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "display geometrica, musica, posters y cultura visual",
+      "priceFrom": 390,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 390,
+        "commercial": 1170,
+        "extended": 3510
+      },
+      "files": {
+        "otf": "releases/gotofont-prisma-sans/1.0.0/otf/gotofont-prisma-sans-regular.otf",
+        "ttf": "releases/gotofont-prisma-sans/1.0.0/ttf/gotofont-prisma-sans-regular.ttf",
+        "woff2": "releases/gotofont-prisma-sans/1.0.0/woff2/gotofont-prisma-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-prisma-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-nopal-sans",
+      "store": "gbstock",
+      "title": "gotofont Nopal Sans",
+      "slug": "gotofont-nopal-sans",
+      "sku": "GBS-FONT-GOTOFONT-NOPAL-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "marca mexicana, directa, fresca y comercial",
+      "priceFrom": 370,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 370,
+        "commercial": 1110,
+        "extended": 3330
+      },
+      "files": {
+        "otf": "releases/gotofont-nopal-sans/1.0.0/otf/gotofont-nopal-sans-regular.otf",
+        "ttf": "releases/gotofont-nopal-sans/1.0.0/ttf/gotofont-nopal-sans-regular.ttf",
+        "woff2": "releases/gotofont-nopal-sans/1.0.0/woff2/gotofont-nopal-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-nopal-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-aurora-serif",
+      "store": "gbstock",
+      "title": "gotofont Aurora Serif",
+      "slug": "gotofont-aurora-serif",
+      "sku": "GBS-FONT-GOTOFONT-AURORA-SERIF",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "editorial luminosa, moda y catalogos",
+      "priceFrom": 440,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 440,
+        "commercial": 1320,
+        "extended": 3960
+      },
+      "files": {
+        "otf": "releases/gotofont-aurora-serif/1.0.0/otf/gotofont-aurora-serif-regular.otf",
+        "ttf": "releases/gotofont-aurora-serif/1.0.0/ttf/gotofont-aurora-serif-regular.ttf",
+        "woff2": "releases/gotofont-aurora-serif/1.0.0/woff2/gotofont-aurora-serif-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-aurora-serif/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-rumba-sans",
+      "store": "gbstock",
+      "title": "gotofont Rumba Sans",
+      "slug": "gotofont-rumba-sans",
+      "sku": "GBS-FONT-GOTOFONT-RUMBA-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "musical, expresiva, latina y de eventos",
+      "priceFrom": 390,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 390,
+        "commercial": 1170,
+        "extended": 3510
+      },
+      "files": {
+        "otf": "releases/gotofont-rumba-sans/1.0.0/otf/gotofont-rumba-sans-regular.otf",
+        "ttf": "releases/gotofont-rumba-sans/1.0.0/ttf/gotofont-rumba-sans-regular.ttf",
+        "woff2": "releases/gotofont-rumba-sans/1.0.0/woff2/gotofont-rumba-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-rumba-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-fiero-sans",
+      "store": "gbstock",
+      "title": "gotofont Fiero Sans",
+      "slug": "gotofont-fiero-sans",
+      "sku": "GBS-FONT-GOTOFONT-FIERO-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "fuerte, automotriz, deportes y accion",
+      "priceFrom": 410,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 410,
+        "commercial": 1230,
+        "extended": 3690
+      },
+      "files": {
+        "otf": "releases/gotofont-fiero-sans/1.0.0/otf/gotofont-fiero-sans-regular.otf",
+        "ttf": "releases/gotofont-fiero-sans/1.0.0/ttf/gotofont-fiero-sans-regular.ttf",
+        "woff2": "releases/gotofont-fiero-sans/1.0.0/woff2/gotofont-fiero-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-fiero-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-mimo-sans",
+      "store": "gbstock",
+      "title": "gotofont Mimo Sans",
+      "slug": "gotofont-mimo-sans",
+      "sku": "GBS-FONT-GOTOFONT-MIMO-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "infantil, mascotas, regalos y productos amables",
+      "priceFrom": 350,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 350,
+        "commercial": 1050,
+        "extended": 3150
+      },
+      "files": {
+        "otf": "releases/gotofont-mimo-sans/1.0.0/otf/gotofont-mimo-sans-regular.otf",
+        "ttf": "releases/gotofont-mimo-sans/1.0.0/ttf/gotofont-mimo-sans-regular.ttf",
+        "woff2": "releases/gotofont-mimo-sans/1.0.0/woff2/gotofont-mimo-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-mimo-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-piedra-serif",
+      "store": "gbstock",
+      "title": "gotofont Piedra Serif",
+      "slug": "gotofont-piedra-serif",
+      "sku": "GBS-FONT-GOTOFONT-PIEDRA-SERIF",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "solida, museografica, obra y coleccion",
+      "priceFrom": 430,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 430,
+        "commercial": 1290,
+        "extended": 3870
+      },
+      "files": {
+        "otf": "releases/gotofont-piedra-serif/1.0.0/otf/gotofont-piedra-serif-regular.otf",
+        "ttf": "releases/gotofont-piedra-serif/1.0.0/ttf/gotofont-piedra-serif-regular.ttf",
+        "woff2": "releases/gotofont-piedra-serif/1.0.0/woff2/gotofont-piedra-serif-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-piedra-serif/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-voltio-sans",
+      "store": "gbstock",
+      "title": "gotofont Voltio Sans",
+      "slug": "gotofont-voltio-sans",
+      "sku": "GBS-FONT-GOTOFONT-VOLTIO-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "electronica, tecnologia, sonido y gaming",
+      "priceFrom": 400,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 400,
+        "commercial": 1200,
+        "extended": 3600
+      },
+      "files": {
+        "otf": "releases/gotofont-voltio-sans/1.0.0/otf/gotofont-voltio-sans-regular.otf",
+        "ttf": "releases/gotofont-voltio-sans/1.0.0/ttf/gotofont-voltio-sans-regular.ttf",
+        "woff2": "releases/gotofont-voltio-sans/1.0.0/woff2/gotofont-voltio-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-voltio-sans/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-canela-serif",
+      "store": "gbstock",
+      "title": "gotofont Canela Serif",
+      "slug": "gotofont-canela-serif",
+      "sku": "GBS-FONT-GOTOFONT-CANELA-SERIF",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "calida, gourmet, editorial y marca boutique",
+      "priceFrom": 440,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 440,
+        "commercial": 1320,
+        "extended": 3960
+      },
+      "files": {
+        "otf": "releases/gotofont-canela-serif/1.0.0/otf/gotofont-canela-serif-regular.otf",
+        "ttf": "releases/gotofont-canela-serif/1.0.0/ttf/gotofont-canela-serif-regular.ttf",
+        "woff2": "releases/gotofont-canela-serif/1.0.0/woff2/gotofont-canela-serif-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-canela-serif/1.0.0/previews/preview.html"
+    },
+    {
+      "id": "font-gotofont-distrito-sans",
+      "store": "gbstock",
+      "title": "gotofont Distrito Sans",
+      "slug": "gotofont-distrito-sans",
+      "sku": "GBS-FONT-GOTOFONT-DISTRITO-SANS",
+      "type": "digital",
+      "status": "ready_for_review",
+      "summary": "urbana, moda, stickers, gorras y merch",
+      "priceFrom": 390,
+      "currency": "MXN",
+      "licenseTiers": {
+        "personal": 390,
+        "commercial": 1170,
+        "extended": 3510
+      },
+      "files": {
+        "otf": "releases/gotofont-distrito-sans/1.0.0/otf/gotofont-distrito-sans-regular.otf",
+        "ttf": "releases/gotofont-distrito-sans/1.0.0/ttf/gotofont-distrito-sans-regular.ttf",
+        "woff2": "releases/gotofont-distrito-sans/1.0.0/woff2/gotofont-distrito-sans-regular.woff2"
+      },
+      "preview": "font-files/releases/gotofont-distrito-sans/1.0.0/previews/preview.html"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Dental Prime 015 Sans",
+  "slug": "gbbiz-dental-prime-015-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Dental",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a dental, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-dental-prime-015-sans/1.0.0/otf/gbbiz-dental-prime-015-sans-regular.otf",
+    "ttf": "releases/gbbiz-dental-prime-015-sans/1.0.0/ttf/gbbiz-dental-prime-015-sans-regular.ttf",
+    "woff2": "releases/gbbiz-dental-prime-015-sans/1.0.0/woff2/gbbiz-dental-prime-015-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 300,
+    "commercial": 900,
+    "extended": 2700
+  }
+}

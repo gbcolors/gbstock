@@ -1,0 +1,20 @@
+{
+  "family": "Fitness Sign 220 Sans",
+  "slug": "gbbiz-fitness-sign-220-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Fitness",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a fitness, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-fitness-sign-220-sans/1.0.0/otf/gbbiz-fitness-sign-220-sans-regular.otf",
+    "ttf": "releases/gbbiz-fitness-sign-220-sans/1.0.0/ttf/gbbiz-fitness-sign-220-sans-regular.ttf",
+    "woff2": "releases/gbbiz-fitness-sign-220-sans/1.0.0/woff2/gbbiz-fitness-sign-220-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 320,
+    "commercial": 960,
+    "extended": 2880
+  }
+}

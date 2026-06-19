@@ -1,0 +1,20 @@
+{
+  "family": "Fitness Poster 260 Sans",
+  "slug": "gbbiz-fitness-poster-260-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Fitness",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a fitness, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-fitness-poster-260-sans/1.0.0/otf/gbbiz-fitness-poster-260-sans-regular.otf",
+    "ttf": "releases/gbbiz-fitness-poster-260-sans/1.0.0/ttf/gbbiz-fitness-poster-260-sans-regular.ttf",
+    "woff2": "releases/gbbiz-fitness-poster-260-sans/1.0.0/woff2/gbbiz-fitness-poster-260-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 400,
+    "commercial": 1200,
+    "extended": 3600
+  }
+}

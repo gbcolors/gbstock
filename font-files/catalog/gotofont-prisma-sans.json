@@ -1,0 +1,23 @@
+{
+  "family": "gotofont Prisma Sans",
+  "slug": "gotofont-prisma-sans",
+  "version": "1.0.0",
+  "brandPrefix": "gotofont",
+  "style": "Regular",
+  "suffix": "Sans",
+  "tone": "display geometrica, musica, posters y cultura visual",
+  "generatedAt": "2026-06-19T08:39:04.320Z",
+  "sourceFormat": "opentype-generated-from-gotofont-original-contours",
+  "status": "ready_for_review",
+  "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
+  "binaries": {
+    "otf": "releases/gotofont-prisma-sans/1.0.0/otf/gotofont-prisma-sans-regular.otf",
+    "ttf": "releases/gotofont-prisma-sans/1.0.0/ttf/gotofont-prisma-sans-regular.ttf",
+    "woff2": "releases/gotofont-prisma-sans/1.0.0/woff2/gotofont-prisma-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 390,
+    "commercial": 1170,
+    "extended": 3510
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Urban Mono 357 Sans",
+  "slug": "gbbiz-urban-mono-357-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Urban",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a urban, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-urban-mono-357-sans/1.0.0/otf/gbbiz-urban-mono-357-sans-regular.otf",
+    "ttf": "releases/gbbiz-urban-mono-357-sans/1.0.0/ttf/gbbiz-urban-mono-357-sans-regular.ttf",
+    "woff2": "releases/gbbiz-urban-mono-357-sans/1.0.0/woff2/gbbiz-urban-mono-357-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 420,
+    "commercial": 1260,
+    "extended": 3780
+  }
+}

@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "gotofont Distrito Sans";
+  src: url("../woff2/gotofont-distrito-sans-regular.woff2") format("woff2"),
+       url("../otf/gotofont-distrito-sans-regular.otf") format("opentype"),
+       url("../ttf/gotofont-distrito-sans-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,306 @@
+[
+  {
+    "family": "Pinuka Sans",
+    "slug": "gbplus-pinuka-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "GB Family Type",
+    "tone": "rounded display suave, juvenil y comercial",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-pinuka-sans/1.0.0/otf/gbplus-pinuka-sans-regular.otf",
+      "ttf": "releases/gbplus-pinuka-sans/1.0.0/ttf/gbplus-pinuka-sans-regular.ttf",
+      "woff2": "releases/gbplus-pinuka-sans/1.0.0/woff2/gbplus-pinuka-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 520,
+      "commercial": 1560,
+      "extended": 4680
+    }
+  },
+  {
+    "family": "Icona Mono Sans",
+    "slug": "gbplus-icona-mono-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "Goto Family Type",
+    "tone": "monotipo pesado para titulares, kits e identidad contundente",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-icona-mono-sans/1.0.0/otf/gbplus-icona-mono-sans-regular.otf",
+      "ttf": "releases/gbplus-icona-mono-sans/1.0.0/ttf/gbplus-icona-mono-sans-regular.ttf",
+      "woff2": "releases/gbplus-icona-mono-sans/1.0.0/woff2/gbplus-icona-mono-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 560,
+      "commercial": 1680,
+      "extended": 5040
+    }
+  },
+  {
+    "family": "Visora Sans",
+    "slug": "gbplus-visora-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "GB Family Type",
+    "tone": "sans elegante, baja friccion, moderna y editorial",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-visora-sans/1.0.0/otf/gbplus-visora-sans-regular.otf",
+      "ttf": "releases/gbplus-visora-sans/1.0.0/ttf/gbplus-visora-sans-regular.ttf",
+      "woff2": "releases/gbplus-visora-sans/1.0.0/woff2/gbplus-visora-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 540,
+      "commercial": 1620,
+      "extended": 4860
+    }
+  },
+  {
+    "family": "Grandia Sans",
+    "slug": "gbplus-grandia-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "Gato Bronco Type Develop",
+    "tone": "lujo redondeado, espaciado amplio, moda y galeria",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-grandia-sans/1.0.0/otf/gbplus-grandia-sans-regular.otf",
+      "ttf": "releases/gbplus-grandia-sans/1.0.0/ttf/gbplus-grandia-sans-regular.ttf",
+      "woff2": "releases/gbplus-grandia-sans/1.0.0/woff2/gbplus-grandia-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 620,
+      "commercial": 1860,
+      "extended": 5580
+    }
+  },
+  {
+    "family": "Corianto Sans",
+    "slug": "gbplus-corianto-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "Goto Family Type",
+    "tone": "condensada fuerte, editorial, posters y portadas",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-corianto-sans/1.0.0/otf/gbplus-corianto-sans-regular.otf",
+      "ttf": "releases/gbplus-corianto-sans/1.0.0/ttf/gbplus-corianto-sans-regular.ttf",
+      "woff2": "releases/gbplus-corianto-sans/1.0.0/woff2/gbplus-corianto-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 560,
+      "commercial": 1680,
+      "extended": 5040
+    }
+  },
+  {
+    "family": "Beronda Sans",
+    "slug": "gbplus-beronda-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "GB Family Type",
+    "tone": "redonda calida con aire premium para logotipos",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-beronda-sans/1.0.0/otf/gbplus-beronda-sans-regular.otf",
+      "ttf": "releases/gbplus-beronda-sans/1.0.0/ttf/gbplus-beronda-sans-regular.ttf",
+      "woff2": "releases/gbplus-beronda-sans/1.0.0/woff2/gbplus-beronda-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 540,
+      "commercial": 1620,
+      "extended": 4860
+    }
+  },
+  {
+    "family": "Wagonin Sans",
+    "slug": "gbplus-wagonin-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "Goto Family Type",
+    "tone": "tecnologica, modular, con curvas suaves y ritmo futurista",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-wagonin-sans/1.0.0/otf/gbplus-wagonin-sans-regular.otf",
+      "ttf": "releases/gbplus-wagonin-sans/1.0.0/ttf/gbplus-wagonin-sans-regular.ttf",
+      "woff2": "releases/gbplus-wagonin-sans/1.0.0/woff2/gbplus-wagonin-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 580,
+      "commercial": 1740,
+      "extended": 5220
+    }
+  },
+  {
+    "family": "Agonia Sans",
+    "slug": "gbplus-agonia-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "GB Family Type",
+    "tone": "bold rounded, memorable, friendly y con presencia",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-agonia-sans/1.0.0/otf/gbplus-agonia-sans-regular.otf",
+      "ttf": "releases/gbplus-agonia-sans/1.0.0/ttf/gbplus-agonia-sans-regular.ttf",
+      "woff2": "releases/gbplus-agonia-sans/1.0.0/woff2/gbplus-agonia-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 560,
+      "commercial": 1680,
+      "extended": 5040
+    }
+  },
+  {
+    "family": "Modulus Sans",
+    "slug": "gbplus-modulus-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "Goto Family Type",
+    "tone": "rounded modular para tecnologia, apps y branding",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-modulus-sans/1.0.0/otf/gbplus-modulus-sans-regular.otf",
+      "ttf": "releases/gbplus-modulus-sans/1.0.0/ttf/gbplus-modulus-sans-regular.ttf",
+      "woff2": "releases/gbplus-modulus-sans/1.0.0/woff2/gbplus-modulus-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 570,
+      "commercial": 1710,
+      "extended": 5130
+    }
+  },
+  {
+    "family": "Arciforma Sans",
+    "slug": "gbplus-arciforma-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "Gato Bronco Type Develop",
+    "tone": "geometrica redondeada limpia, marca y producto digital",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-arciforma-sans/1.0.0/otf/gbplus-arciforma-sans-regular.otf",
+      "ttf": "releases/gbplus-arciforma-sans/1.0.0/ttf/gbplus-arciforma-sans-regular.ttf",
+      "woff2": "releases/gbplus-arciforma-sans/1.0.0/woff2/gbplus-arciforma-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 590,
+      "commercial": 1770,
+      "extended": 5310
+    }
+  },
+  {
+    "family": "Leo Rounded Sans",
+    "slug": "gbplus-leo-rounded-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "GB Family Type",
+    "tone": "geometrica moderna con mezcla de pesos para identidad flexible",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-leo-rounded-sans/1.0.0/otf/gbplus-leo-rounded-sans-regular.otf",
+      "ttf": "releases/gbplus-leo-rounded-sans/1.0.0/ttf/gbplus-leo-rounded-sans-regular.ttf",
+      "woff2": "releases/gbplus-leo-rounded-sans/1.0.0/woff2/gbplus-leo-rounded-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 580,
+      "commercial": 1740,
+      "extended": 5220
+    }
+  },
+  {
+    "family": "Bauvia Sans",
+    "slug": "gbplus-bauvia-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "Goto Family Type",
+    "tone": "bauhaus modular, retro, colorida y de alto impacto",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-bauvia-sans/1.0.0/otf/gbplus-bauvia-sans-regular.otf",
+      "ttf": "releases/gbplus-bauvia-sans/1.0.0/ttf/gbplus-bauvia-sans-regular.ttf",
+      "woff2": "releases/gbplus-bauvia-sans/1.0.0/woff2/gbplus-bauvia-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 640,
+      "commercial": 1920,
+      "extended": 5760
+    }
+  },
+  {
+    "family": "Ultrana Sans",
+    "slug": "gbplus-ultrana-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "Gato Bronco Type Develop",
+    "tone": "ultra thin redondeada para lujo, arquitectura y editorial",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-ultrana-sans/1.0.0/otf/gbplus-ultrana-sans-regular.otf",
+      "ttf": "releases/gbplus-ultrana-sans/1.0.0/ttf/gbplus-ultrana-sans-regular.ttf",
+      "woff2": "releases/gbplus-ultrana-sans/1.0.0/woff2/gbplus-ultrana-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 620,
+      "commercial": 1860,
+      "extended": 5580
+    }
+  },
+  {
+    "family": "Cingura Sans",
+    "slug": "gbplus-cingura-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "GB Family Type",
+    "tone": "rounded sans elegante para display y campanas premium",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-cingura-sans/1.0.0/otf/gbplus-cingura-sans-regular.otf",
+      "ttf": "releases/gbplus-cingura-sans/1.0.0/ttf/gbplus-cingura-sans-regular.ttf",
+      "woff2": "releases/gbplus-cingura-sans/1.0.0/woff2/gbplus-cingura-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 580,
+      "commercial": 1740,
+      "extended": 5220
+    }
+  },
+  {
+    "family": "Doodle Sans",
+    "slug": "gbplus-doodle-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "GB Family Type",
+    "tone": "monoline futurista, amable y experimental",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-doodle-sans/1.0.0/otf/gbplus-doodle-sans-regular.otf",
+      "ttf": "releases/gbplus-doodle-sans/1.0.0/ttf/gbplus-doodle-sans-regular.ttf",
+      "woff2": "releases/gbplus-doodle-sans/1.0.0/woff2/gbplus-doodle-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 540,
+      "commercial": 1620,
+      "extended": 4860
+    }
+  },
+  {
+    "family": "Parasite Sans",
+    "slug": "gbplus-parasite-sans",
+    "version": "1.0.0",
+    "collection": "GBstock Plus",
+    "designer": "Goto Family Type",
+    "tone": "display gruesa, redonda, divertida y alternativa",
+    "status": "final",
+    "binaries": {
+      "otf": "releases/gbplus-parasite-sans/1.0.0/otf/gbplus-parasite-sans-regular.otf",
+      "ttf": "releases/gbplus-parasite-sans/1.0.0/ttf/gbplus-parasite-sans-regular.ttf",
+      "woff2": "releases/gbplus-parasite-sans/1.0.0/woff2/gbplus-parasite-sans-regular.woff2"
+    },
+    "licenseTiers": {
+      "personal": 560,
+      "commercial": 1680,
+      "extended": 5040
+    }
+  }
+]

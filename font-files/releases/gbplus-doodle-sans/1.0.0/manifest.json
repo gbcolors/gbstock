@@ -1,0 +1,19 @@
+{
+  "family": "Doodle Sans",
+  "slug": "gbplus-doodle-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Plus",
+  "designer": "GB Family Type",
+  "tone": "monoline futurista, amable y experimental",
+  "status": "final",
+  "binaries": {
+    "otf": "releases/gbplus-doodle-sans/1.0.0/otf/gbplus-doodle-sans-regular.otf",
+    "ttf": "releases/gbplus-doodle-sans/1.0.0/ttf/gbplus-doodle-sans-regular.ttf",
+    "woff2": "releases/gbplus-doodle-sans/1.0.0/woff2/gbplus-doodle-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 540,
+    "commercial": 1620,
+    "extended": 4860
+  }
+}

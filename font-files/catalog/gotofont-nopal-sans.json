@@ -1,0 +1,23 @@
+{
+  "family": "gotofont Nopal Sans",
+  "slug": "gotofont-nopal-sans",
+  "version": "1.0.0",
+  "brandPrefix": "gotofont",
+  "style": "Regular",
+  "suffix": "Sans",
+  "tone": "marca mexicana, directa, fresca y comercial",
+  "generatedAt": "2026-06-19T08:39:04.526Z",
+  "sourceFormat": "opentype-generated-from-gotofont-original-contours",
+  "status": "ready_for_review",
+  "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
+  "binaries": {
+    "otf": "releases/gotofont-nopal-sans/1.0.0/otf/gotofont-nopal-sans-regular.otf",
+    "ttf": "releases/gotofont-nopal-sans/1.0.0/ttf/gotofont-nopal-sans-regular.ttf",
+    "woff2": "releases/gotofont-nopal-sans/1.0.0/woff2/gotofont-nopal-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 370,
+    "commercial": 1110,
+    "extended": 3330
+  }
+}

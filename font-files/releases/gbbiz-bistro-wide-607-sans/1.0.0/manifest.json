@@ -1,0 +1,20 @@
+{
+  "family": "Bistro Wide 607 Sans",
+  "slug": "gbbiz-bistro-wide-607-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Bistro",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a bistro, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-bistro-wide-607-sans/1.0.0/otf/gbbiz-bistro-wide-607-sans-regular.otf",
+    "ttf": "releases/gbbiz-bistro-wide-607-sans/1.0.0/ttf/gbbiz-bistro-wide-607-sans-regular.ttf",
+    "woff2": "releases/gbbiz-bistro-wide-607-sans/1.0.0/woff2/gbbiz-bistro-wide-607-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 380,
+    "commercial": 1140,
+    "extended": 3420
+  }
+}

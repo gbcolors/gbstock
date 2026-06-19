@@ -1,0 +1,20 @@
+{
+  "family": "Dental Minimal 695 Serif",
+  "slug": "gbbiz-dental-minimal-695-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Dental",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a dental, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-dental-minimal-695-serif/1.0.0/otf/gbbiz-dental-minimal-695-serif-regular.otf",
+    "ttf": "releases/gbbiz-dental-minimal-695-serif/1.0.0/ttf/gbbiz-dental-minimal-695-serif-regular.ttf",
+    "woff2": "releases/gbbiz-dental-minimal-695-serif/1.0.0/woff2/gbbiz-dental-minimal-695-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 460,
+    "commercial": 1380,
+    "extended": 4140
+  }
+}

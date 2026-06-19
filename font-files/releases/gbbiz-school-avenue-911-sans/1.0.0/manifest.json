@@ -1,0 +1,20 @@
+{
+  "family": "School Avenue 911 Sans",
+  "slug": "gbbiz-school-avenue-911-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "School",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a school, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-school-avenue-911-sans/1.0.0/otf/gbbiz-school-avenue-911-sans-regular.otf",
+    "ttf": "releases/gbbiz-school-avenue-911-sans/1.0.0/ttf/gbbiz-school-avenue-911-sans-regular.ttf",
+    "woff2": "releases/gbbiz-school-avenue-911-sans/1.0.0/woff2/gbbiz-school-avenue-911-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 460,
+    "commercial": 1380,
+    "extended": 4140
+  }
+}

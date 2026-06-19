@@ -1,0 +1,20 @@
+{
+  "family": "Event Central 985 Sans",
+  "slug": "gbbiz-event-central-985-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Event",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a event, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-event-central-985-sans/1.0.0/otf/gbbiz-event-central-985-sans-regular.otf",
+    "ttf": "releases/gbbiz-event-central-985-sans/1.0.0/ttf/gbbiz-event-central-985-sans-regular.ttf",
+    "woff2": "releases/gbbiz-event-central-985-sans/1.0.0/woff2/gbbiz-event-central-985-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 260,
+    "commercial": 780,
+    "extended": 2340
+  }
+}

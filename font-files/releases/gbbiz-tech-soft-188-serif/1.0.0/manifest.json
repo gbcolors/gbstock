@@ -1,0 +1,20 @@
+{
+  "family": "Tech Soft 188 Serif",
+  "slug": "gbbiz-tech-soft-188-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Tech",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a tech, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-tech-soft-188-serif/1.0.0/otf/gbbiz-tech-soft-188-serif-regular.otf",
+    "ttf": "releases/gbbiz-tech-soft-188-serif/1.0.0/ttf/gbbiz-tech-soft-188-serif-regular.ttf",
+    "woff2": "releases/gbbiz-tech-soft-188-serif/1.0.0/woff2/gbbiz-tech-soft-188-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 400,
+    "commercial": 1200,
+    "extended": 3600
+  }
+}

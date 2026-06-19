@@ -1,0 +1,20 @@
+{
+  "family": "Salon Local 819 Sans",
+  "slug": "gbbiz-salon-local-819-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Salon",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a salon, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-salon-local-819-sans/1.0.0/otf/gbbiz-salon-local-819-sans-regular.otf",
+    "ttf": "releases/gbbiz-salon-local-819-sans/1.0.0/ttf/gbbiz-salon-local-819-sans-regular.ttf",
+    "woff2": "releases/gbbiz-salon-local-819-sans/1.0.0/woff2/gbbiz-salon-local-819-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 300,
+    "commercial": 900,
+    "extended": 2700
+  }
+}

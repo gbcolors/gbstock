@@ -1,0 +1,20 @@
+{
+  "family": "Clinic Poster 254 Serif",
+  "slug": "gbbiz-clinic-poster-254-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Clinic",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a clinic, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-clinic-poster-254-serif/1.0.0/otf/gbbiz-clinic-poster-254-serif-regular.otf",
+    "ttf": "releases/gbbiz-clinic-poster-254-serif/1.0.0/ttf/gbbiz-clinic-poster-254-serif-regular.ttf",
+    "woff2": "releases/gbbiz-clinic-poster-254-serif/1.0.0/woff2/gbbiz-clinic-poster-254-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 280,
+    "commercial": 840,
+    "extended": 2520
+  }
+}

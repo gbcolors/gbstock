@@ -1,0 +1,20 @@
+{
+  "family": "Museum Terrace 942 Serif",
+  "slug": "gbbiz-museum-terrace-942-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Museum",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a museum, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-museum-terrace-942-serif/1.0.0/otf/gbbiz-museum-terrace-942-serif-regular.otf",
+    "ttf": "releases/gbbiz-museum-terrace-942-serif/1.0.0/ttf/gbbiz-museum-terrace-942-serif-regular.ttf",
+    "woff2": "releases/gbbiz-museum-terrace-942-serif/1.0.0/woff2/gbbiz-museum-terrace-942-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 360,
+    "commercial": 1080,
+    "extended": 3240
+  }
+}

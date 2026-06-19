@@ -1,0 +1,20 @@
+{
+  "family": "Museum Public 782 Sans",
+  "slug": "gbbiz-museum-public-782-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Museum",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a museum, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-museum-public-782-sans/1.0.0/otf/gbbiz-museum-public-782-sans-regular.otf",
+    "ttf": "releases/gbbiz-museum-public-782-sans/1.0.0/ttf/gbbiz-museum-public-782-sans-regular.ttf",
+    "woff2": "releases/gbbiz-museum-public-782-sans/1.0.0/woff2/gbbiz-museum-public-782-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 280,
+    "commercial": 840,
+    "extended": 2520
+  }
+}

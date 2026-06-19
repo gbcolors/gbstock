@@ -1,0 +1,20 @@
+{
+  "family": "Bistro Scriptless 647 Sans",
+  "slug": "gbbiz-bistro-scriptless-647-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Bistro",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a bistro, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-bistro-scriptless-647-sans/1.0.0/otf/gbbiz-bistro-scriptless-647-sans-regular.otf",
+    "ttf": "releases/gbbiz-bistro-scriptless-647-sans/1.0.0/ttf/gbbiz-bistro-scriptless-647-sans-regular.ttf",
+    "woff2": "releases/gbbiz-bistro-scriptless-647-sans/1.0.0/woff2/gbbiz-bistro-scriptless-647-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 460,
+    "commercial": 1380,
+    "extended": 4140
+  }
+}

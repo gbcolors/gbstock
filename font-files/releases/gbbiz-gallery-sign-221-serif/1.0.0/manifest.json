@@ -1,0 +1,20 @@
+{
+  "family": "Gallery Sign 221 Serif",
+  "slug": "gbbiz-gallery-sign-221-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Gallery",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a gallery, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-gallery-sign-221-serif/1.0.0/otf/gbbiz-gallery-sign-221-serif-regular.otf",
+    "ttf": "releases/gbbiz-gallery-sign-221-serif/1.0.0/ttf/gbbiz-gallery-sign-221-serif-regular.ttf",
+    "woff2": "releases/gbbiz-gallery-sign-221-serif/1.0.0/woff2/gbbiz-gallery-sign-221-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 340,
+    "commercial": 1020,
+    "extended": 3060
+  }
+}

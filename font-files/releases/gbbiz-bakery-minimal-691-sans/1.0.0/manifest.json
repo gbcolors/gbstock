@@ -1,0 +1,20 @@
+{
+  "family": "Bakery Minimal 691 Sans",
+  "slug": "gbbiz-bakery-minimal-691-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Bakery",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a bakery, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-bakery-minimal-691-sans/1.0.0/otf/gbbiz-bakery-minimal-691-sans-regular.otf",
+    "ttf": "releases/gbbiz-bakery-minimal-691-sans/1.0.0/ttf/gbbiz-bakery-minimal-691-sans-regular.ttf",
+    "woff2": "releases/gbbiz-bakery-minimal-691-sans/1.0.0/woff2/gbbiz-bakery-minimal-691-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 380,
+    "commercial": 1140,
+    "extended": 3420
+  }
+}

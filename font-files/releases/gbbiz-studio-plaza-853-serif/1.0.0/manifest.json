@@ -1,0 +1,20 @@
+{
+  "family": "Studio Plaza 853 Serif",
+  "slug": "gbbiz-studio-plaza-853-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Studio",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a studio, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-studio-plaza-853-serif/1.0.0/otf/gbbiz-studio-plaza-853-serif-regular.otf",
+    "ttf": "releases/gbbiz-studio-plaza-853-serif/1.0.0/ttf/gbbiz-studio-plaza-853-serif-regular.ttf",
+    "woff2": "releases/gbbiz-studio-plaza-853-serif/1.0.0/woff2/gbbiz-studio-plaza-853-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 260,
+    "commercial": 780,
+    "extended": 2340
+  }
+}

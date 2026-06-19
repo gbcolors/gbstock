@@ -1,0 +1,20 @@
+{
+  "family": "Tech Poster 268 Serif",
+  "slug": "gbbiz-tech-poster-268-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Tech",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a tech, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-tech-poster-268-serif/1.0.0/otf/gbbiz-tech-poster-268-serif-regular.otf",
+    "ttf": "releases/gbbiz-tech-poster-268-serif/1.0.0/ttf/gbbiz-tech-poster-268-serif-regular.ttf",
+    "woff2": "releases/gbbiz-tech-poster-268-serif/1.0.0/woff2/gbbiz-tech-poster-268-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 320,
+    "commercial": 960,
+    "extended": 2880
+  }
+}

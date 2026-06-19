@@ -1,0 +1,20 @@
+{
+  "family": "Bakery Mono 331 Serif",
+  "slug": "gbbiz-bakery-mono-331-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Bakery",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a bakery, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-bakery-mono-331-serif/1.0.0/otf/gbbiz-bakery-mono-331-serif-regular.otf",
+    "ttf": "releases/gbbiz-bakery-mono-331-serif/1.0.0/ttf/gbbiz-bakery-mono-331-serif-regular.ttf",
+    "woff2": "releases/gbbiz-bakery-mono-331-serif/1.0.0/woff2/gbbiz-bakery-mono-331-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 380,
+    "commercial": 1140,
+    "extended": 3420
+  }
+}

@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "gotofont Piedra Serif";
+  src: url("../woff2/gotofont-piedra-serif-regular.woff2") format("woff2"),
+       url("../otf/gotofont-piedra-serif-regular.otf") format("opentype"),
+       url("../ttf/gotofont-piedra-serif-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

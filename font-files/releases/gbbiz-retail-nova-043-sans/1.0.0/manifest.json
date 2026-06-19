@@ -1,0 +1,20 @@
+{
+  "family": "Retail Nova 043 Sans",
+  "slug": "gbbiz-retail-nova-043-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Retail",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a retail, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-retail-nova-043-sans/1.0.0/otf/gbbiz-retail-nova-043-sans-regular.otf",
+    "ttf": "releases/gbbiz-retail-nova-043-sans/1.0.0/ttf/gbbiz-retail-nova-043-sans-regular.ttf",
+    "woff2": "releases/gbbiz-retail-nova-043-sans/1.0.0/woff2/gbbiz-retail-nova-043-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 380,
+    "commercial": 1140,
+    "extended": 3420
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Hotel Sharp 481 Sans",
+  "slug": "gbbiz-hotel-sharp-481-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Hotel",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a hotel, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-hotel-sharp-481-sans/1.0.0/otf/gbbiz-hotel-sharp-481-sans-regular.otf",
+    "ttf": "releases/gbbiz-hotel-sharp-481-sans/1.0.0/ttf/gbbiz-hotel-sharp-481-sans-regular.ttf",
+    "woff2": "releases/gbbiz-hotel-sharp-481-sans/1.0.0/woff2/gbbiz-hotel-sharp-481-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 260,
+    "commercial": 780,
+    "extended": 2340
+  }
+}

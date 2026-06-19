@@ -1,0 +1,20 @@
+{
+  "family": "Auto Grand 737 Serif",
+  "slug": "gbbiz-auto-grand-737-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Auto",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a auto, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-auto-grand-737-serif/1.0.0/otf/gbbiz-auto-grand-737-serif-regular.otf",
+    "ttf": "releases/gbbiz-auto-grand-737-serif/1.0.0/ttf/gbbiz-auto-grand-737-serif-regular.ttf",
+    "woff2": "releases/gbbiz-auto-grand-737-serif/1.0.0/woff2/gbbiz-auto-grand-737-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 340,
+    "commercial": 1020,
+    "extended": 3060
+  }
+}

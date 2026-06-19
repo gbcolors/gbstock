@@ -1,0 +1,20 @@
+{
+  "family": "Salon Soft 179 Serif",
+  "slug": "gbbiz-salon-soft-179-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Salon",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a salon, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-salon-soft-179-serif/1.0.0/otf/gbbiz-salon-soft-179-serif-regular.otf",
+    "ttf": "releases/gbbiz-salon-soft-179-serif/1.0.0/ttf/gbbiz-salon-soft-179-serif-regular.ttf",
+    "woff2": "releases/gbbiz-salon-soft-179-serif/1.0.0/woff2/gbbiz-salon-soft-179-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 460,
+    "commercial": 1380,
+    "extended": 4140
+  }
+}

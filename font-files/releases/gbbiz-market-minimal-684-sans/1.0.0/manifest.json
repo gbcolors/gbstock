@@ -1,0 +1,20 @@
+{
+  "family": "Market Minimal 684 Sans",
+  "slug": "gbbiz-market-minimal-684-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Market",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a market, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-market-minimal-684-sans/1.0.0/otf/gbbiz-market-minimal-684-sans-regular.otf",
+    "ttf": "releases/gbbiz-market-minimal-684-sans/1.0.0/ttf/gbbiz-market-minimal-684-sans-regular.ttf",
+    "woff2": "releases/gbbiz-market-minimal-684-sans/1.0.0/woff2/gbbiz-market-minimal-684-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 480,
+    "commercial": 1440,
+    "extended": 4320
+  }
+}

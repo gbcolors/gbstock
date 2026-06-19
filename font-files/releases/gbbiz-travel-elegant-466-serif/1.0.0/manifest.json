@@ -1,0 +1,20 @@
+{
+  "family": "Travel Elegant 466 Serif",
+  "slug": "gbbiz-travel-elegant-466-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Travel",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a travel, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-travel-elegant-466-serif/1.0.0/otf/gbbiz-travel-elegant-466-serif-regular.otf",
+    "ttf": "releases/gbbiz-travel-elegant-466-serif/1.0.0/ttf/gbbiz-travel-elegant-466-serif-regular.ttf",
+    "woff2": "releases/gbbiz-travel-elegant-466-serif/1.0.0/woff2/gbbiz-travel-elegant-466-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 440,
+    "commercial": 1320,
+    "extended": 3960
+  }
+}

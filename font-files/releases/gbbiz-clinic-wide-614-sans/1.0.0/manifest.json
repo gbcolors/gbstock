@@ -1,0 +1,20 @@
+{
+  "family": "Clinic Wide 614 Sans",
+  "slug": "gbbiz-clinic-wide-614-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Clinic",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a clinic, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-clinic-wide-614-sans/1.0.0/otf/gbbiz-clinic-wide-614-sans-regular.otf",
+    "ttf": "releases/gbbiz-clinic-wide-614-sans/1.0.0/ttf/gbbiz-clinic-wide-614-sans-regular.ttf",
+    "woff2": "releases/gbbiz-clinic-wide-614-sans/1.0.0/woff2/gbbiz-clinic-wide-614-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 280,
+    "commercial": 840,
+    "extended": 2520
+  }
+}

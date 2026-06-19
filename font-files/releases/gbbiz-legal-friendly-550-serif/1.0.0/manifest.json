@@ -1,0 +1,20 @@
+{
+  "family": "Legal Friendly 550 Serif",
+  "slug": "gbbiz-legal-friendly-550-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Legal",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a legal, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-legal-friendly-550-serif/1.0.0/otf/gbbiz-legal-friendly-550-serif-regular.otf",
+    "ttf": "releases/gbbiz-legal-friendly-550-serif/1.0.0/ttf/gbbiz-legal-friendly-550-serif-regular.ttf",
+    "woff2": "releases/gbbiz-legal-friendly-550-serif/1.0.0/woff2/gbbiz-legal-friendly-550-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 440,
+    "commercial": 1320,
+    "extended": 3960
+  }
+}

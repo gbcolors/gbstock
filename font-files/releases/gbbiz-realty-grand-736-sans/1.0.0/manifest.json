@@ -1,0 +1,20 @@
+{
+  "family": "Realty Grand 736 Sans",
+  "slug": "gbbiz-realty-grand-736-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Realty",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a realty, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-realty-grand-736-sans/1.0.0/otf/gbbiz-realty-grand-736-sans-regular.otf",
+    "ttf": "releases/gbbiz-realty-grand-736-sans/1.0.0/ttf/gbbiz-realty-grand-736-sans-regular.ttf",
+    "woff2": "releases/gbbiz-realty-grand-736-sans/1.0.0/woff2/gbbiz-realty-grand-736-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 320,
+    "commercial": 960,
+    "extended": 2880
+  }
+}

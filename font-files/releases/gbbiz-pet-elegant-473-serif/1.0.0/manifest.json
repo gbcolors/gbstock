@@ -1,0 +1,20 @@
+{
+  "family": "Pet Elegant 473 Serif",
+  "slug": "gbbiz-pet-elegant-473-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Pet",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a pet, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-pet-elegant-473-serif/1.0.0/otf/gbbiz-pet-elegant-473-serif-regular.otf",
+    "ttf": "releases/gbbiz-pet-elegant-473-serif/1.0.0/ttf/gbbiz-pet-elegant-473-serif-regular.ttf",
+    "woff2": "releases/gbbiz-pet-elegant-473-serif/1.0.0/woff2/gbbiz-pet-elegant-473-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 340,
+    "commercial": 1020,
+    "extended": 3060
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Delivery Round 107 Serif",
+  "slug": "gbbiz-delivery-round-107-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Delivery",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a delivery, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-delivery-round-107-serif/1.0.0/otf/gbbiz-delivery-round-107-serif-regular.otf",
+    "ttf": "releases/gbbiz-delivery-round-107-serif/1.0.0/ttf/gbbiz-delivery-round-107-serif-regular.ttf",
+    "woff2": "releases/gbbiz-delivery-round-107-serif/1.0.0/woff2/gbbiz-delivery-round-107-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 460,
+    "commercial": 1380,
+    "extended": 4140
+  }
+}

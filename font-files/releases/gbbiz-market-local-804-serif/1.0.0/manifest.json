@@ -1,0 +1,20 @@
+{
+  "family": "Market Local 804 Serif",
+  "slug": "gbbiz-market-local-804-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Market",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a market, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-market-local-804-serif/1.0.0/otf/gbbiz-market-local-804-serif-regular.otf",
+    "ttf": "releases/gbbiz-market-local-804-serif/1.0.0/ttf/gbbiz-market-local-804-serif-regular.ttf",
+    "woff2": "releases/gbbiz-market-local-804-serif/1.0.0/woff2/gbbiz-market-local-804-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 480,
+    "commercial": 1440,
+    "extended": 4320
+  }
+}

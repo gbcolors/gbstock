@@ -1,0 +1,20 @@
+{
+  "family": "Resort Public 768 Sans",
+  "slug": "gbbiz-resort-public-768-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Resort",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a resort, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-resort-public-768-sans/1.0.0/otf/gbbiz-resort-public-768-sans-regular.otf",
+    "ttf": "releases/gbbiz-resort-public-768-sans/1.0.0/ttf/gbbiz-resort-public-768-sans-regular.ttf",
+    "woff2": "releases/gbbiz-resort-public-768-sans/1.0.0/woff2/gbbiz-resort-public-768-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 480,
+    "commercial": 1440,
+    "extended": 4320
+  }
+}

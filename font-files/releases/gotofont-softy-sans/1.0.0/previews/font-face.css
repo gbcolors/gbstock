@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "gotofont Softy Sans";
+  src: url("../releases/gotofont-softy-sans/1.0.0/woff2/gotofont-softy-sans-regular.woff2") format("woff2"),
+       url("../releases/gotofont-softy-sans/1.0.0/otf/gotofont-softy-sans-regular.otf") format("opentype"),
+       url("../releases/gotofont-softy-sans/1.0.0/ttf/gotofont-softy-sans-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

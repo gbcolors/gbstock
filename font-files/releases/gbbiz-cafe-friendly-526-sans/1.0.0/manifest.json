@@ -1,0 +1,20 @@
+{
+  "family": "Cafe Friendly 526 Sans",
+  "slug": "gbbiz-cafe-friendly-526-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Cafe",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a cafe, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-cafe-friendly-526-sans/1.0.0/otf/gbbiz-cafe-friendly-526-sans-regular.otf",
+    "ttf": "releases/gbbiz-cafe-friendly-526-sans/1.0.0/ttf/gbbiz-cafe-friendly-526-sans-regular.ttf",
+    "woff2": "releases/gbbiz-cafe-friendly-526-sans/1.0.0/woff2/gbbiz-cafe-friendly-526-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 440,
+    "commercial": 1320,
+    "extended": 3960
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Restaurant Wide 602 Sans",
+  "slug": "gbbiz-restaurant-wide-602-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Restaurant",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a restaurant, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-restaurant-wide-602-sans/1.0.0/otf/gbbiz-restaurant-wide-602-sans-regular.otf",
+    "ttf": "releases/gbbiz-restaurant-wide-602-sans/1.0.0/ttf/gbbiz-restaurant-wide-602-sans-regular.ttf",
+    "woff2": "releases/gbbiz-restaurant-wide-602-sans/1.0.0/woff2/gbbiz-restaurant-wide-602-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 280,
+    "commercial": 840,
+    "extended": 2520
+  }
+}

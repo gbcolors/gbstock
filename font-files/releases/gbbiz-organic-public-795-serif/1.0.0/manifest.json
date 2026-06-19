@@ -1,0 +1,20 @@
+{
+  "family": "Organic Public 795 Serif",
+  "slug": "gbbiz-organic-public-795-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Organic",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a organic, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-organic-public-795-serif/1.0.0/otf/gbbiz-organic-public-795-serif-regular.otf",
+    "ttf": "releases/gbbiz-organic-public-795-serif/1.0.0/ttf/gbbiz-organic-public-795-serif-regular.ttf",
+    "woff2": "releases/gbbiz-organic-public-795-serif/1.0.0/woff2/gbbiz-organic-public-795-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 300,
+    "commercial": 900,
+    "extended": 2700
+  }
+}

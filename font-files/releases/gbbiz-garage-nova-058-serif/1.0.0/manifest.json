@@ -1,0 +1,20 @@
+{
+  "family": "Garage Nova 058 Serif",
+  "slug": "gbbiz-garage-nova-058-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Garage",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a garage, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-garage-nova-058-serif/1.0.0/otf/gbbiz-garage-nova-058-serif-regular.otf",
+    "ttf": "releases/gbbiz-garage-nova-058-serif/1.0.0/ttf/gbbiz-garage-nova-058-serif-regular.ttf",
+    "woff2": "releases/gbbiz-garage-nova-058-serif/1.0.0/woff2/gbbiz-garage-nova-058-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 440,
+    "commercial": 1320,
+    "extended": 3960
+  }
+}

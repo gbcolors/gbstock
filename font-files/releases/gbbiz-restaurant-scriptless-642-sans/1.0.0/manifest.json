@@ -1,0 +1,20 @@
+{
+  "family": "Restaurant Scriptless 642 Sans",
+  "slug": "gbbiz-restaurant-scriptless-642-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Restaurant",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a restaurant, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-restaurant-scriptless-642-sans/1.0.0/otf/gbbiz-restaurant-scriptless-642-sans-regular.otf",
+    "ttf": "releases/gbbiz-restaurant-scriptless-642-sans/1.0.0/ttf/gbbiz-restaurant-scriptless-642-sans-regular.ttf",
+    "woff2": "releases/gbbiz-restaurant-scriptless-642-sans/1.0.0/woff2/gbbiz-restaurant-scriptless-642-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 360,
+    "commercial": 1080,
+    "extended": 3240
+  }
+}

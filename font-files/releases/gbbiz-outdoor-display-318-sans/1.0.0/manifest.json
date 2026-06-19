@@ -1,0 +1,20 @@
+{
+  "family": "Outdoor Display 318 Sans",
+  "slug": "gbbiz-outdoor-display-318-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Outdoor",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a outdoor, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-outdoor-display-318-sans/1.0.0/otf/gbbiz-outdoor-display-318-sans-regular.otf",
+    "ttf": "releases/gbbiz-outdoor-display-318-sans/1.0.0/ttf/gbbiz-outdoor-display-318-sans-regular.ttf",
+    "woff2": "releases/gbbiz-outdoor-display-318-sans/1.0.0/woff2/gbbiz-outdoor-display-318-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 360,
+    "commercial": 1080,
+    "extended": 3240
+  }
+}

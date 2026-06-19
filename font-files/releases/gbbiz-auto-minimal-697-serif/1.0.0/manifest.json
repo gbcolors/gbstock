@@ -1,0 +1,20 @@
+{
+  "family": "Auto Minimal 697 Serif",
+  "slug": "gbbiz-auto-minimal-697-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Auto",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a auto, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-auto-minimal-697-serif/1.0.0/otf/gbbiz-auto-minimal-697-serif-regular.otf",
+    "ttf": "releases/gbbiz-auto-minimal-697-serif/1.0.0/ttf/gbbiz-auto-minimal-697-serif-regular.ttf",
+    "woff2": "releases/gbbiz-auto-minimal-697-serif/1.0.0/woff2/gbbiz-auto-minimal-697-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 260,
+    "commercial": 780,
+    "extended": 2340
+  }
+}

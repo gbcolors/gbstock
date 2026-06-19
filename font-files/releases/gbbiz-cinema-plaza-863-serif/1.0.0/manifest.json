@@ -1,0 +1,20 @@
+{
+  "family": "Cinema Plaza 863 Serif",
+  "slug": "gbbiz-cinema-plaza-863-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Cinema",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a cinema, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-cinema-plaza-863-serif/1.0.0/otf/gbbiz-cinema-plaza-863-serif-regular.otf",
+    "ttf": "releases/gbbiz-cinema-plaza-863-serif/1.0.0/ttf/gbbiz-cinema-plaza-863-serif-regular.ttf",
+    "woff2": "releases/gbbiz-cinema-plaza-863-serif/1.0.0/woff2/gbbiz-cinema-plaza-863-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 460,
+    "commercial": 1380,
+    "extended": 4140
+  }
+}

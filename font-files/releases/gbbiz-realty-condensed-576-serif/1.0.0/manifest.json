@@ -1,0 +1,20 @@
+{
+  "family": "Realty Condensed 576 Serif",
+  "slug": "gbbiz-realty-condensed-576-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Realty",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a realty, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-realty-condensed-576-serif/1.0.0/otf/gbbiz-realty-condensed-576-serif-regular.otf",
+    "ttf": "releases/gbbiz-realty-condensed-576-serif/1.0.0/ttf/gbbiz-realty-condensed-576-serif-regular.ttf",
+    "woff2": "releases/gbbiz-realty-condensed-576-serif/1.0.0/woff2/gbbiz-realty-condensed-576-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 480,
+    "commercial": 1440,
+    "extended": 4320
+  }
+}

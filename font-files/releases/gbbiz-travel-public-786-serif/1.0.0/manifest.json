@@ -1,0 +1,20 @@
+{
+  "family": "Travel Public 786 Serif",
+  "slug": "gbbiz-travel-public-786-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Travel",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a travel, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-travel-public-786-serif/1.0.0/otf/gbbiz-travel-public-786-serif-regular.otf",
+    "ttf": "releases/gbbiz-travel-public-786-serif/1.0.0/ttf/gbbiz-travel-public-786-serif-regular.ttf",
+    "woff2": "releases/gbbiz-travel-public-786-serif/1.0.0/woff2/gbbiz-travel-public-786-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 360,
+    "commercial": 1080,
+    "extended": 3240
+  }
+}

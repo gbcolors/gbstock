@@ -1,0 +1,20 @@
+{
+  "family": "Clinic Sharp 494 Serif",
+  "slug": "gbbiz-clinic-sharp-494-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Clinic",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a clinic, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-clinic-sharp-494-serif/1.0.0/otf/gbbiz-clinic-sharp-494-serif-regular.otf",
+    "ttf": "releases/gbbiz-clinic-sharp-494-serif/1.0.0/ttf/gbbiz-clinic-sharp-494-serif-regular.ttf",
+    "woff2": "releases/gbbiz-clinic-sharp-494-serif/1.0.0/woff2/gbbiz-clinic-sharp-494-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 280,
+    "commercial": 840,
+    "extended": 2520
+  }
+}

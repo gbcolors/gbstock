@@ -1,0 +1,20 @@
+{
+  "family": "Kids Classic 432 Sans",
+  "slug": "gbbiz-kids-classic-432-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Kids",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a kids, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-kids-classic-432-sans/1.0.0/otf/gbbiz-kids-classic-432-sans-regular.otf",
+    "ttf": "releases/gbbiz-kids-classic-432-sans/1.0.0/ttf/gbbiz-kids-classic-432-sans-regular.ttf",
+    "woff2": "releases/gbbiz-kids-classic-432-sans/1.0.0/woff2/gbbiz-kids-classic-432-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 480,
+    "commercial": 1440,
+    "extended": 4320
+  }
+}

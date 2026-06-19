@@ -1,0 +1,20 @@
+{
+  "family": "Clinic Avenue 894 Sans",
+  "slug": "gbbiz-clinic-avenue-894-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Clinic",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a clinic, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-clinic-avenue-894-sans/1.0.0/otf/gbbiz-clinic-avenue-894-sans-regular.otf",
+    "ttf": "releases/gbbiz-clinic-avenue-894-sans/1.0.0/ttf/gbbiz-clinic-avenue-894-sans-regular.ttf",
+    "woff2": "releases/gbbiz-clinic-avenue-894-sans/1.0.0/woff2/gbbiz-clinic-avenue-894-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 360,
+    "commercial": 1080,
+    "extended": 3240
+  }
+}

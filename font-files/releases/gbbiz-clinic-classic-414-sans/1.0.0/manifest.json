@@ -1,0 +1,20 @@
+{
+  "family": "Clinic Classic 414 Sans",
+  "slug": "gbbiz-clinic-classic-414-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Clinic",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a clinic, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-clinic-classic-414-sans/1.0.0/otf/gbbiz-clinic-classic-414-sans-regular.otf",
+    "ttf": "releases/gbbiz-clinic-classic-414-sans/1.0.0/ttf/gbbiz-clinic-classic-414-sans-regular.ttf",
+    "woff2": "releases/gbbiz-clinic-classic-414-sans/1.0.0/woff2/gbbiz-clinic-classic-414-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 360,
+    "commercial": 1080,
+    "extended": 3240
+  }
+}

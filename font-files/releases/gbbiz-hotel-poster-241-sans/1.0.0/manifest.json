@@ -1,0 +1,20 @@
+{
+  "family": "Hotel Poster 241 Sans",
+  "slug": "gbbiz-hotel-poster-241-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Hotel",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a hotel, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-hotel-poster-241-sans/1.0.0/otf/gbbiz-hotel-poster-241-sans-regular.otf",
+    "ttf": "releases/gbbiz-hotel-poster-241-sans/1.0.0/ttf/gbbiz-hotel-poster-241-sans-regular.ttf",
+    "woff2": "releases/gbbiz-hotel-poster-241-sans/1.0.0/woff2/gbbiz-hotel-poster-241-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 260,
+    "commercial": 780,
+    "extended": 2340
+  }
+}

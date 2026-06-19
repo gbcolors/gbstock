@@ -1,0 +1,19 @@
+{
+  "family": "Wagonin Sans",
+  "slug": "gbplus-wagonin-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Plus",
+  "designer": "Goto Family Type",
+  "tone": "tecnologica, modular, con curvas suaves y ritmo futurista",
+  "status": "final",
+  "binaries": {
+    "otf": "releases/gbplus-wagonin-sans/1.0.0/otf/gbplus-wagonin-sans-regular.otf",
+    "ttf": "releases/gbplus-wagonin-sans/1.0.0/ttf/gbplus-wagonin-sans-regular.ttf",
+    "woff2": "releases/gbplus-wagonin-sans/1.0.0/woff2/gbplus-wagonin-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 580,
+    "commercial": 1740,
+    "extended": 5220
+  }
+}

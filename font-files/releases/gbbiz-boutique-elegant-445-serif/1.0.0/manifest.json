@@ -1,0 +1,20 @@
+{
+  "family": "Boutique Elegant 445 Serif",
+  "slug": "gbbiz-boutique-elegant-445-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Boutique",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a boutique, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-boutique-elegant-445-serif/1.0.0/otf/gbbiz-boutique-elegant-445-serif-regular.otf",
+    "ttf": "releases/gbbiz-boutique-elegant-445-serif/1.0.0/ttf/gbbiz-boutique-elegant-445-serif-regular.ttf",
+    "woff2": "releases/gbbiz-boutique-elegant-445-serif/1.0.0/woff2/gbbiz-boutique-elegant-445-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 260,
+    "commercial": 780,
+    "extended": 2340
+  }
+}

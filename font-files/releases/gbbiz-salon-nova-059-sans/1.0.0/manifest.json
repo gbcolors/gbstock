@@ -1,0 +1,20 @@
+{
+  "family": "Salon Nova 059 Sans",
+  "slug": "gbbiz-salon-nova-059-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Salon",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a salon, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-salon-nova-059-sans/1.0.0/otf/gbbiz-salon-nova-059-sans-regular.otf",
+    "ttf": "releases/gbbiz-salon-nova-059-sans/1.0.0/ttf/gbbiz-salon-nova-059-sans-regular.ttf",
+    "woff2": "releases/gbbiz-salon-nova-059-sans/1.0.0/woff2/gbbiz-salon-nova-059-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 460,
+    "commercial": 1380,
+    "extended": 4140
+  }
+}

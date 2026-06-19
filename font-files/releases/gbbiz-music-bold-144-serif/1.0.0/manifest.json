@@ -1,0 +1,20 @@
+{
+  "family": "Music Bold 144 Serif",
+  "slug": "gbbiz-music-bold-144-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Music",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a music, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-music-bold-144-serif/1.0.0/otf/gbbiz-music-bold-144-serif-regular.otf",
+    "ttf": "releases/gbbiz-music-bold-144-serif/1.0.0/ttf/gbbiz-music-bold-144-serif-regular.ttf",
+    "woff2": "releases/gbbiz-music-bold-144-serif/1.0.0/woff2/gbbiz-music-bold-144-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 480,
+    "commercial": 1440,
+    "extended": 4320
+  }
+}

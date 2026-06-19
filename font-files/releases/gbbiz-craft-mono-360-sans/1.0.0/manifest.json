@@ -1,0 +1,20 @@
+{
+  "family": "Craft Mono 360 Sans",
+  "slug": "gbbiz-craft-mono-360-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Craft",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a craft, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-craft-mono-360-sans/1.0.0/otf/gbbiz-craft-mono-360-sans-regular.otf",
+    "ttf": "releases/gbbiz-craft-mono-360-sans/1.0.0/ttf/gbbiz-craft-mono-360-sans-regular.ttf",
+    "woff2": "releases/gbbiz-craft-mono-360-sans/1.0.0/woff2/gbbiz-craft-mono-360-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 480,
+    "commercial": 1440,
+    "extended": 4320
+  }
+}

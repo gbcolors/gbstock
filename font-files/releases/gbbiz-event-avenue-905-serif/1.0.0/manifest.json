@@ -1,0 +1,20 @@
+{
+  "family": "Event Avenue 905 Serif",
+  "slug": "gbbiz-event-avenue-905-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Event",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a event, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-event-avenue-905-serif/1.0.0/otf/gbbiz-event-avenue-905-serif-regular.otf",
+    "ttf": "releases/gbbiz-event-avenue-905-serif/1.0.0/ttf/gbbiz-event-avenue-905-serif-regular.ttf",
+    "woff2": "releases/gbbiz-event-avenue-905-serif/1.0.0/woff2/gbbiz-event-avenue-905-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 340,
+    "commercial": 1020,
+    "extended": 3060
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Finance Elegant 469 Sans",
+  "slug": "gbbiz-finance-elegant-469-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Finance",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a finance, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-finance-elegant-469-sans/1.0.0/otf/gbbiz-finance-elegant-469-sans-regular.otf",
+    "ttf": "releases/gbbiz-finance-elegant-469-sans/1.0.0/ttf/gbbiz-finance-elegant-469-sans-regular.ttf",
+    "woff2": "releases/gbbiz-finance-elegant-469-sans/1.0.0/woff2/gbbiz-finance-elegant-469-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 260,
+    "commercial": 780,
+    "extended": 2340
+  }
+}

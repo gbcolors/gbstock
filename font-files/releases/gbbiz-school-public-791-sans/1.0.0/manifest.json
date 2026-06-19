@@ -1,0 +1,20 @@
+{
+  "family": "School Public 791 Sans",
+  "slug": "gbbiz-school-public-791-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "School",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a school, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-school-public-791-sans/1.0.0/otf/gbbiz-school-public-791-sans-regular.otf",
+    "ttf": "releases/gbbiz-school-public-791-sans/1.0.0/ttf/gbbiz-school-public-791-sans-regular.ttf",
+    "woff2": "releases/gbbiz-school-public-791-sans/1.0.0/woff2/gbbiz-school-public-791-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 460,
+    "commercial": 1380,
+    "extended": 4140
+  }
+}

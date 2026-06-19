@@ -1,0 +1,20 @@
+{
+  "family": "Office Soft 199 Sans",
+  "slug": "gbbiz-office-soft-199-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Office",
+  "designer": "GB Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a office, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-office-soft-199-sans/1.0.0/otf/gbbiz-office-soft-199-sans-regular.otf",
+    "ttf": "releases/gbbiz-office-soft-199-sans/1.0.0/ttf/gbbiz-office-soft-199-sans-regular.ttf",
+    "woff2": "releases/gbbiz-office-soft-199-sans/1.0.0/woff2/gbbiz-office-soft-199-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 380,
+    "commercial": 1140,
+    "extended": 3420
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "family": "Resort Poster 248 Sans",
+  "slug": "gbbiz-resort-poster-248-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Resort",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a resort, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-resort-poster-248-sans/1.0.0/otf/gbbiz-resort-poster-248-sans-regular.otf",
+    "ttf": "releases/gbbiz-resort-poster-248-sans/1.0.0/ttf/gbbiz-resort-poster-248-sans-regular.ttf",
+    "woff2": "releases/gbbiz-resort-poster-248-sans/1.0.0/woff2/gbbiz-resort-poster-248-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 400,
+    "commercial": 1200,
+    "extended": 3600
+  }
+}

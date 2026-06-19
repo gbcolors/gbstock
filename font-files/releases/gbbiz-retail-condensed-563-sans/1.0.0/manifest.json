@@ -1,0 +1,20 @@
+{
+  "family": "Retail Condensed 563 Sans",
+  "slug": "gbbiz-retail-condensed-563-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Retail",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a retail, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-retail-condensed-563-sans/1.0.0/otf/gbbiz-retail-condensed-563-sans-regular.otf",
+    "ttf": "releases/gbbiz-retail-condensed-563-sans/1.0.0/ttf/gbbiz-retail-condensed-563-sans-regular.ttf",
+    "woff2": "releases/gbbiz-retail-condensed-563-sans/1.0.0/woff2/gbbiz-retail-condensed-563-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 460,
+    "commercial": 1380,
+    "extended": 4140
+  }
+}

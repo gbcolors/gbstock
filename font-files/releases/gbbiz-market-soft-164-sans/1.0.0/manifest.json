@@ -1,0 +1,20 @@
+{
+  "family": "Market Soft 164 Sans",
+  "slug": "gbbiz-market-soft-164-sans",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Market",
+  "designer": "Goto Family Type",
+  "status": "final",
+  "tone": "Fuente enfocada a market, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-market-soft-164-sans/1.0.0/otf/gbbiz-market-soft-164-sans-regular.otf",
+    "ttf": "releases/gbbiz-market-soft-164-sans/1.0.0/ttf/gbbiz-market-soft-164-sans-regular.ttf",
+    "woff2": "releases/gbbiz-market-soft-164-sans/1.0.0/woff2/gbbiz-market-soft-164-sans-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 400,
+    "commercial": 1200,
+    "extended": 3600
+  }
+}

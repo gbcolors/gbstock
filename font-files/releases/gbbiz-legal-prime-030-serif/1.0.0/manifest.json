@@ -1,0 +1,20 @@
+{
+  "family": "Legal Prime 030 Serif",
+  "slug": "gbbiz-legal-prime-030-serif",
+  "version": "1.0.0",
+  "collection": "GBstock Business 1000",
+  "sector": "Legal",
+  "designer": "Gato Bronco Type Develop",
+  "status": "final",
+  "tone": "Fuente enfocada a legal, tiendas, anuncios y marca comercial.",
+  "binaries": {
+    "otf": "releases/gbbiz-legal-prime-030-serif/1.0.0/otf/gbbiz-legal-prime-030-serif-regular.otf",
+    "ttf": "releases/gbbiz-legal-prime-030-serif/1.0.0/ttf/gbbiz-legal-prime-030-serif-regular.ttf",
+    "woff2": "releases/gbbiz-legal-prime-030-serif/1.0.0/woff2/gbbiz-legal-prime-030-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 360,
+    "commercial": 1080,
+    "extended": 3240
+  }
+}
