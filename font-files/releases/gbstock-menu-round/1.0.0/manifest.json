@@ -1,0 +1,18 @@
+{
+  "family": "GBstock Menu Round",
+  "slug": "gbstock-menu-round",
+  "version": "1.0.0",
+  "owner": "GATO BRONCO COLORS CLOTHING ART FOOD SAS DE CV",
+  "designer": "GB Family Type",
+  "role": "brand-ui-menu-font",
+  "designNotes": [
+    "Familia redondeada y espaciada para navegacion.",
+    "Pensada para menu, filtros, botones, chips y opciones.",
+    "Complementa GBstock Plus Display sin competir con el wordmark."
+  ],
+  "binaries": {
+    "otf": "releases/gbstock-menu-round/1.0.0/otf/gbstock-menu-round-regular.otf",
+    "ttf": "releases/gbstock-menu-round/1.0.0/ttf/gbstock-menu-round-regular.ttf",
+    "woff2": "releases/gbstock-menu-round/1.0.0/woff2/gbstock-menu-round-regular.woff2"
+  }
+}

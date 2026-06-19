@@ -1,0 +1,5 @@
+GBstock Menu Round
+
+Familia UI para menus, filtros y opciones de GBstock.
+Inspiracion: limpieza rounded contemporanea, sin copiar formas comerciales de terceros.
+Titular: GATO BRONCO COLORS CLOTHING ART FOOD SAS DE CV.

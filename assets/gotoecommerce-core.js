@@ -77,6 +77,9 @@
       if (config.wordmarkFontUrl) {
         css += '@font-face{font-family:"' + (config.wordmarkFontFamily || "GBstock Plus Wordmark") + '";src:url("' + config.wordmarkFontUrl + '") format("woff2");font-display:swap;}';
       }
+      if (config.uiFontUrl) {
+        css += '@font-face{font-family:"' + (config.uiFontFamily || "GBstock Menu Round") + '";src:url("' + config.uiFontUrl + '") format("woff2");font-display:swap;}';
+      }
       var style = document.createElement("style");
       style.id = styleId;
       style.textContent = css;

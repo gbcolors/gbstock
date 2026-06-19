@@ -30,6 +30,23 @@
 .ge-store select,
 .ge-store textarea { font: inherit; }
 
+.ge-nav,
+.ge-actions,
+.ge-topbar,
+.ge-search,
+.ge-search-chips,
+.ge-filter,
+.ge-category,
+.ge-section-head a,
+.ge-pagination,
+.ge-tag,
+.ge-count,
+.ge-row-actions,
+.ge-credit,
+.ge-formats {
+  font-family: "GBstock Menu Round", Inter, ui-sans-serif, system-ui, sans-serif;
+}
+
 .ge-store button {
   min-height: 40px;
   border: 1px solid var(--ge-blue);
@@ -159,6 +176,8 @@
 .ge-nav span {
   color: #8b929b;
   font-size: 13px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
 }
 
 .ge-nav a,
@@ -171,6 +190,7 @@
   background: transparent;
   text-decoration: none;
   font-weight: 700;
+  letter-spacing: .03em;
 }
 
 .ge-nav a:hover,

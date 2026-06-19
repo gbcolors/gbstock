@@ -12,6 +12,8 @@ window.GBSTOCK_STORE_CONFIG = {
   "displayFontUrl": "./font-files/releases/gbstock-plus-display/1.0.0/woff2/gbstock-plus-display-regular.woff2",
   "wordmarkFontFamily": "GBstock Plus Display",
   "wordmarkFontUrl": "./font-files/releases/gbstock-plus-display/1.0.0/woff2/gbstock-plus-display-regular.woff2",
+  "uiFontFamily": "GBstock Menu Round",
+  "uiFontUrl": "./font-files/releases/gbstock-menu-round/1.0.0/woff2/gbstock-menu-round-regular.woff2",
   "eyebrow": "Bibliotecas digitales para marcas y creadores",
   "headline": "Fuentes, imagen y sonido para vender mejor.",
   "subhead": "Encuentra activos listos para anuncios, tiendas, hoteles, restaurantes, reels, identidad y campa?as con licencias claras.",
