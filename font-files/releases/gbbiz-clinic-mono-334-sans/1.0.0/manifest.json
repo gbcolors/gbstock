@@ -16,5 +16,7 @@
     "personal": 440,
     "commercial": 1320,
     "extended": 3960
-  }
+  },
+  "correction": "rebuilt-readable-catalog-font; no deliberate horizontal or vertical mirrored glyphs",
+  "generatedAt": "2026-06-19T17:48:30.184Z"
 }

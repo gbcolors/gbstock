@@ -1,14 +1,14 @@
 {
-  "family": "gotofont Rufus Sans",
+  "family": "Rufus Sans",
   "slug": "gotofont-rufus-sans",
   "version": "1.0.0",
   "brandPrefix": "gotofont",
   "style": "Regular",
   "suffix": "Sans",
   "tone": "amistosa, redonda, cercana y de marca casual",
-  "generatedAt": "2026-06-19T08:39:02.600Z",
+  "generatedAt": "2026-06-19T17:48:57.596Z",
   "sourceFormat": "opentype-generated-from-gotofont-original-contours",
-  "status": "ready_for_review",
+  "status": "final",
   "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
   "binaries": {
     "otf": "releases/gotofont-rufus-sans/1.0.0/otf/gotofont-rufus-sans-regular.otf",
@@ -19,5 +19,6 @@
     "personal": 340,
     "commercial": 1020,
     "extended": 3060
-  }
+  },
+  "correction": "rebuilt-readable-catalog-font; no deliberate horizontal or vertical mirrored glyphs"
 }

@@ -1,14 +1,14 @@
 {
-  "family": "gotofont Canela Serif",
+  "family": "Canela Serif",
   "slug": "gotofont-canela-serif",
   "version": "1.0.0",
   "brandPrefix": "gotofont",
   "style": "Regular",
   "suffix": "Serif",
   "tone": "calida, gourmet, editorial y marca boutique",
-  "generatedAt": "2026-06-19T08:39:06.161Z",
+  "generatedAt": "2026-06-19T17:48:58.262Z",
   "sourceFormat": "opentype-generated-from-gotofont-original-contours",
-  "status": "ready_for_review",
+  "status": "final",
   "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
   "binaries": {
     "otf": "releases/gotofont-canela-serif/1.0.0/otf/gotofont-canela-serif-regular.otf",
@@ -19,5 +19,6 @@
     "personal": 440,
     "commercial": 1320,
     "extended": 3960
-  }
+  },
+  "correction": "rebuilt-readable-catalog-font; no deliberate horizontal or vertical mirrored glyphs"
 }

@@ -1,14 +1,14 @@
 {
-  "family": "gotofont Kumo Sans",
+  "family": "Kumo Sans",
   "slug": "gotofont-kumo-sans",
   "version": "1.0.0",
   "brandPrefix": "gotofont",
   "style": "Regular",
   "suffix": "Sans",
   "tone": "blanda, amable, apps infantiles y productos cute",
-  "generatedAt": "2026-06-19T08:39:04.042Z",
+  "generatedAt": "2026-06-19T17:48:57.907Z",
   "sourceFormat": "opentype-generated-from-gotofont-original-contours",
-  "status": "ready_for_review",
+  "status": "final",
   "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
   "binaries": {
     "otf": "releases/gotofont-kumo-sans/1.0.0/otf/gotofont-kumo-sans-regular.otf",
@@ -19,5 +19,6 @@
     "personal": 360,
     "commercial": 1080,
     "extended": 3240
-  }
+  },
+  "correction": "rebuilt-readable-catalog-font; no deliberate horizontal or vertical mirrored glyphs"
 }

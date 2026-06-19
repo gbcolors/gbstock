@@ -1,9 +1,5 @@
 @font-face {
-  font-family: "gotofont Kumo Sans";
-  src: url("../woff2/gotofont-kumo-sans-regular.woff2") format("woff2"),
-       url("../otf/gotofont-kumo-sans-regular.otf") format("opentype"),
-       url("../ttf/gotofont-kumo-sans-regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Kumo Sans";
+  src: url("../woff2/gotofont-kumo-sans-regular.woff2") format("woff2");
   font-display: swap;
 }

@@ -1,9 +1,5 @@
 @font-face {
-  font-family: "gotofont Canela Serif";
-  src: url("../woff2/gotofont-canela-serif-regular.woff2") format("woff2"),
-       url("../otf/gotofont-canela-serif-regular.otf") format("opentype"),
-       url("../ttf/gotofont-canela-serif-regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Canela Serif";
+  src: url("../woff2/gotofont-canela-serif-regular.woff2") format("woff2");
   font-display: swap;
 }

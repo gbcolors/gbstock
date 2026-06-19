@@ -1,14 +1,14 @@
 {
-  "family": "gotofont Fiero Sans",
+  "family": "Fiero Sans",
   "slug": "gotofont-fiero-sans",
   "version": "1.0.0",
   "brandPrefix": "gotofont",
   "style": "Regular",
   "suffix": "Sans",
   "tone": "fuerte, automotriz, deportes y accion",
-  "generatedAt": "2026-06-19T08:39:05.286Z",
+  "generatedAt": "2026-06-19T17:48:58.096Z",
   "sourceFormat": "opentype-generated-from-gotofont-original-contours",
-  "status": "ready_for_review",
+  "status": "final",
   "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
   "binaries": {
     "otf": "releases/gotofont-fiero-sans/1.0.0/otf/gotofont-fiero-sans-regular.otf",
@@ -19,5 +19,6 @@
     "personal": 410,
     "commercial": 1230,
     "extended": 3690
-  }
+  },
+  "correction": "rebuilt-readable-catalog-font; no deliberate horizontal or vertical mirrored glyphs"
 }

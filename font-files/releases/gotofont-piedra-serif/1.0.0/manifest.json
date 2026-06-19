@@ -1,14 +1,14 @@
 {
-  "family": "gotofont Piedra Serif",
+  "family": "Piedra Serif",
   "slug": "gotofont-piedra-serif",
   "version": "1.0.0",
   "brandPrefix": "gotofont",
   "style": "Regular",
   "suffix": "Serif",
   "tone": "solida, museografica, obra y coleccion",
-  "generatedAt": "2026-06-19T08:39:05.678Z",
+  "generatedAt": "2026-06-19T17:48:58.184Z",
   "sourceFormat": "opentype-generated-from-gotofont-original-contours",
-  "status": "ready_for_review",
+  "status": "final",
   "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
   "binaries": {
     "otf": "releases/gotofont-piedra-serif/1.0.0/otf/gotofont-piedra-serif-regular.otf",
@@ -19,5 +19,6 @@
     "personal": 430,
     "commercial": 1290,
     "extended": 3870
-  }
+  },
+  "correction": "rebuilt-readable-catalog-font; no deliberate horizontal or vertical mirrored glyphs"
 }

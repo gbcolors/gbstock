@@ -1,14 +1,14 @@
 {
-  "family": "gotofont Aurora Serif",
+  "family": "Aurora Serif",
   "slug": "gotofont-aurora-serif",
   "version": "1.0.0",
   "brandPrefix": "gotofont",
   "style": "Regular",
   "suffix": "Serif",
   "tone": "editorial luminosa, moda y catalogos",
-  "generatedAt": "2026-06-19T08:39:04.792Z",
+  "generatedAt": "2026-06-19T17:48:58.018Z",
   "sourceFormat": "opentype-generated-from-gotofont-original-contours",
-  "status": "ready_for_review",
+  "status": "final",
   "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
   "binaries": {
     "otf": "releases/gotofont-aurora-serif/1.0.0/otf/gotofont-aurora-serif-regular.otf",
@@ -19,5 +19,6 @@
     "personal": 440,
     "commercial": 1320,
     "extended": 3960
-  }
+  },
+  "correction": "rebuilt-readable-catalog-font; no deliberate horizontal or vertical mirrored glyphs"
 }

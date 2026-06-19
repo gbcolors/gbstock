@@ -16,5 +16,7 @@
     "personal": 360,
     "commercial": 1080,
     "extended": 3240
-  }
+  },
+  "correction": "rebuilt-readable-catalog-font; no deliberate horizontal or vertical mirrored glyphs",
+  "generatedAt": "2026-06-19T17:48:16.837Z"
 }

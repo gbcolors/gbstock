@@ -1,14 +1,14 @@
 {
-  "family": "gotofont Marea Sans",
+  "family": "Marea Sans",
   "slug": "gotofont-marea-sans",
   "version": "1.0.0",
   "brandPrefix": "gotofont",
   "style": "Regular",
   "suffix": "Sans",
   "tone": "suave, veraniega, lifestyle y retail",
-  "generatedAt": "2026-06-19T08:39:03.741Z",
+  "generatedAt": "2026-06-19T17:48:57.824Z",
   "sourceFormat": "opentype-generated-from-gotofont-original-contours",
-  "status": "ready_for_review",
+  "status": "final",
   "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
   "binaries": {
     "otf": "releases/gotofont-marea-sans/1.0.0/otf/gotofont-marea-sans-regular.otf",
@@ -19,5 +19,6 @@
     "personal": 350,
     "commercial": 1050,
     "extended": 3150
-  }
+  },
+  "correction": "rebuilt-readable-catalog-font; no deliberate horizontal or vertical mirrored glyphs"
 }

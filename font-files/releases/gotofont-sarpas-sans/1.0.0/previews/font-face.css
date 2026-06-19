@@ -1,9 +1,5 @@
 @font-face {
-  font-family: "gotofont Sarpas Sans";
-  src: url("../woff2/gotofont-sarpas-sans-regular.woff2") format("woff2"),
-       url("../otf/gotofont-sarpas-sans-regular.otf") format("opentype"),
-       url("../ttf/gotofont-sarpas-sans-regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Sarpas Sans";
+  src: url("../woff2/gotofont-sarpas-sans-regular.woff2") format("woff2");
   font-display: swap;
 }

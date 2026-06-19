@@ -1,14 +1,14 @@
 {
-  "family": "gotofont Lita Sans",
+  "family": "Lita Sans",
   "slug": "gotofont-lita-sans",
   "version": "1.0.0",
   "brandPrefix": "gotofont",
   "style": "Regular",
   "suffix": "Sans",
   "tone": "ligera, fresca, editorial juvenil y limpia",
-  "generatedAt": "2026-06-19T08:39:02.821Z",
+  "generatedAt": "2026-06-19T17:48:57.630Z",
   "sourceFormat": "opentype-generated-from-gotofont-original-contours",
-  "status": "ready_for_review",
+  "status": "final",
   "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
   "binaries": {
     "otf": "releases/gotofont-lita-sans/1.0.0/otf/gotofont-lita-sans-regular.otf",
@@ -19,5 +19,6 @@
     "personal": 330,
     "commercial": 990,
     "extended": 2970
-  }
+  },
+  "correction": "rebuilt-readable-catalog-font; no deliberate horizontal or vertical mirrored glyphs"
 }

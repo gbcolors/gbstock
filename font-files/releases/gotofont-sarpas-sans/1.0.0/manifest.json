@@ -1,14 +1,14 @@
 {
-  "family": "gotofont Sarpas Sans",
+  "family": "Sarpas Sans",
   "slug": "gotofont-sarpas-sans",
   "version": "1.0.0",
   "brandPrefix": "gotofont",
   "style": "Regular",
   "suffix": "Sans",
   "tone": "energica, deportiva, compacta y con caracter",
-  "generatedAt": "2026-06-19T08:39:03.101Z",
+  "generatedAt": "2026-06-19T17:48:57.664Z",
   "sourceFormat": "opentype-generated-from-gotofont-original-contours",
-  "status": "ready_for_review",
+  "status": "final",
   "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
   "binaries": {
     "otf": "releases/gotofont-sarpas-sans/1.0.0/otf/gotofont-sarpas-sans-regular.otf",
@@ -19,5 +19,6 @@
     "personal": 360,
     "commercial": 1080,
     "extended": 3240
-  }
+  },
+  "correction": "rebuilt-readable-catalog-font; no deliberate horizontal or vertical mirrored glyphs"
 }

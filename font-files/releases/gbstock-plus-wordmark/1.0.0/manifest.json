@@ -1,0 +1,20 @@
+{
+  "family": "GBstock Plus Wordmark",
+  "slug": "gbstock-plus-wordmark",
+  "version": "1.0.0",
+  "role": "brand-wordmark-font",
+  "owner": "GATO BRONCO COLORS CLOTHING ART FOOD SAS DE CV",
+  "designer": "GB Family Type",
+  "fixedGlyphs": [
+    "s",
+    "t",
+    "o",
+    "c",
+    "k"
+  ],
+  "binaries": {
+    "otf": "releases/gbstock-plus-wordmark/1.0.0/otf/gbstock-plus-wordmark-regular.otf",
+    "ttf": "releases/gbstock-plus-wordmark/1.0.0/ttf/gbstock-plus-wordmark-regular.ttf",
+    "woff2": "releases/gbstock-plus-wordmark/1.0.0/woff2/gbstock-plus-wordmark-regular.woff2"
+  }
+}

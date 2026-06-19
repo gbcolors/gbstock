@@ -1,9 +1,5 @@
 @font-face {
-  font-family: "gotofont Brava Serif";
-  src: url("../woff2/gotofont-brava-serif-regular.woff2") format("woff2"),
-       url("../otf/gotofont-brava-serif-regular.otf") format("opentype"),
-       url("../ttf/gotofont-brava-serif-regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Brava Serif";
+  src: url("../woff2/gotofont-brava-serif-regular.woff2") format("woff2");
   font-display: swap;
 }

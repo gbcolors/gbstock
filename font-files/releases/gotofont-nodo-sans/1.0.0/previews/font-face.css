@@ -1,9 +1,5 @@
 @font-face {
-  font-family: "gotofont Nodo Sans";
-  src: url("../woff2/gotofont-nodo-sans-regular.woff2") format("woff2"),
-       url("../otf/gotofont-nodo-sans-regular.otf") format("opentype"),
-       url("../ttf/gotofont-nodo-sans-regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Nodo Sans";
+  src: url("../woff2/gotofont-nodo-sans-regular.woff2") format("woff2");
   font-display: swap;
 }

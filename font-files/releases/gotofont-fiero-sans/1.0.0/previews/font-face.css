@@ -1,9 +1,5 @@
 @font-face {
-  font-family: "gotofont Fiero Sans";
-  src: url("../woff2/gotofont-fiero-sans-regular.woff2") format("woff2"),
-       url("../otf/gotofont-fiero-sans-regular.otf") format("opentype"),
-       url("../ttf/gotofont-fiero-sans-regular.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Fiero Sans";
+  src: url("../woff2/gotofont-fiero-sans-regular.woff2") format("woff2");
   font-display: swap;
 }

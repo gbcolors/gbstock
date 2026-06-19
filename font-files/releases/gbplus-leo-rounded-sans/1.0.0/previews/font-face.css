@@ -1,1 +1,5 @@
-@font-face{font-family:"Leo Rounded Sans";src:url("../woff2/gbplus-leo-rounded-sans-regular.woff2") format("woff2");font-display:swap;}
+@font-face {
+  font-family: "Leo Rounded Sans";
+  src: url("../woff2/gbplus-leo-rounded-sans-regular.woff2") format("woff2");
+  font-display: swap;
+}
