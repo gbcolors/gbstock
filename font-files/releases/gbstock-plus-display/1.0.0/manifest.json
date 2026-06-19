@@ -1,0 +1,18 @@
+{
+  "family": "GBstock Plus Display",
+  "slug": "gbstock-plus-display",
+  "version": "1.0.0",
+  "owner": "GATO BRONCO COLORS CLOTHING ART FOOD SAS DE CV",
+  "designer": "GB Family Type",
+  "role": "brand-display-font",
+  "designNotes": [
+    "Display sans compacta para marca comercial.",
+    "Slant sutil y proporciones altas para presencia en hero.",
+    "Construida como fuente propia de GBstock, no como dependencia visual de Goto."
+  ],
+  "binaries": {
+    "otf": "releases/gbstock-plus-display/1.0.0/otf/gbstock-plus-display-regular.otf",
+    "ttf": "releases/gbstock-plus-display/1.0.0/ttf/gbstock-plus-display-regular.ttf",
+    "woff2": "releases/gbstock-plus-display/1.0.0/woff2/gbstock-plus-display-regular.woff2"
+  }
+}
