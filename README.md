@@ -50,3 +50,13 @@ Las rutas de fuentes y descargas deben responder `200`, por ejemplo:
 
 GBstock forma parte del ecosistema GB como tienda independiente de recursos digitales.
 GotoEcommerce es la integracion ecommerce reutilizable para montar tiendas propias o de marca blanca.
+
+## Tipografia de marca
+
+El sitio usa `GBstock Plus Display`, una familia titular propia ubicada en:
+
+```text
+font-files/releases/gbstock-plus-display/1.0.0/
+```
+
+Incluye OTF, TTF y WOFF2. Esta fuente se usa para el wordmark y titulares de alto impacto de GBstock.
