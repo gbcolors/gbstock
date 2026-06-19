@@ -6,8 +6,8 @@
   "designer": "GB Family Type",
   "role": "brand-display-font",
   "designNotes": [
-    "Display sans compacta para marca comercial.",
-    "Slant sutil y proporciones altas para presencia en hero.",
+    "Display sans compacta para marca comercial con lectura normal.",
+    "S, T y alfabeto sin inversion ni slant agresivo.",
     "Construida como fuente propia de GBstock, no como dependencia visual de Goto."
   ],
   "binaries": {
