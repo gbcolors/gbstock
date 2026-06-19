@@ -192,6 +192,7 @@
 .ge-drawer,
 .ge-modal-card,
 .ge-editorial,
+.ge-specimen,
 .ge-font-row,
 .ge-row {
   border: 1px solid rgba(7, 20, 43, .16);
@@ -451,6 +452,40 @@
   margin: 0;
   color: #d6dde4;
   line-height: 1.55;
+}
+
+.ge-specimen {
+  display: grid;
+  gap: 16px;
+  padding: clamp(20px, 3vw, 34px);
+  overflow: hidden;
+  background:
+    linear-gradient(135deg, rgba(242, 122, 36, .1), transparent 42%),
+    linear-gradient(180deg, #fff, #f4f8fa);
+}
+
+.ge-specimen-word {
+  color: var(--ge-blue);
+  font-size: clamp(84px, 15vw, 220px);
+  line-height: .75;
+  text-shadow:
+    2px 2px 0 var(--ge-orange),
+    0 18px 38px rgba(7, 20, 43, .12);
+}
+
+.ge-specimen-lines {
+  display: grid;
+  gap: 10px;
+}
+
+.ge-specimen-lines p {
+  margin: 0;
+  padding: 12px 0;
+  border-top: 1px solid rgba(7, 20, 43, .11);
+  color: var(--ge-blue);
+  font-size: clamp(26px, 4vw, 58px);
+  line-height: .95;
+  overflow-wrap: anywhere;
 }
 
 .ge-section-head {
@@ -715,6 +750,7 @@
   .ge-hero,
   .ge-layout,
   .ge-editorial,
+  .ge-specimen,
   .ge-row,
   .ge-font-row {
     grid-template-columns: minmax(0, 1fr);
