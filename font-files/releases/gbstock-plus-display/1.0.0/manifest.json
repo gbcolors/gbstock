@@ -7,8 +7,8 @@
   "role": "brand-display-font",
   "designNotes": [
     "Display sans compacta para marca comercial con lectura normal.",
-    "Alfabeto completo sin reflejos deliberados horizontales ni verticales.",
-    "Construida como fuente propia de GBstock, no como dependencia visual de Goto."
+    "Alfabeto completo generado desde glifos propios sin reflejos horizontales ni verticales.",
+    "S y T redibujadas como formas normales; no se usan espejos como recurso visual."
   ],
   "binaries": {
     "otf": "releases/gbstock-plus-display/1.0.0/otf/gbstock-plus-display-regular.otf",
