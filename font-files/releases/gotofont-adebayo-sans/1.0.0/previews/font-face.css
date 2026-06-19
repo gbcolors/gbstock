@@ -1,47 +1,9 @@
 @font-face {
-  font-family: "Adebayo Sans";
-  src: url("../woff2/gotofont-adebayo-sans-light.woff2") format("woff2");
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Adebayo Sans";
-  src: url("../woff2/gotofont-adebayo-sans-regular.woff2") format("woff2");
+  font-family: "gotofont Adebayo Sans";
+  src: url("../woff2/gotofont-adebayo-sans-regular.woff2") format("woff2"),
+       url("../otf/gotofont-adebayo-sans-regular.otf") format("opentype"),
+       url("../ttf/gotofont-adebayo-sans-regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Adebayo Sans";
-  src: url("../woff2/gotofont-adebayo-sans-bold.woff2") format("woff2");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Adebayo Sans";
-  src: url("../woff2/gotofont-adebayo-sans-italic.woff2") format("woff2");
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Adebayo Sans";
-  src: url("../woff2/gotofont-adebayo-sans-light-italic.woff2") format("woff2");
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Adebayo Sans";
-  src: url("../woff2/gotofont-adebayo-sans-bold-italic.woff2") format("woff2");
-  font-weight: 700;
-  font-style: italic;
   font-display: swap;
 }

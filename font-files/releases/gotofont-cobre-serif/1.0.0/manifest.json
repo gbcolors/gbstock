@@ -1,0 +1,23 @@
+{
+  "family": "gotofont Cobre Serif",
+  "slug": "gotofont-cobre-serif",
+  "version": "1.0.0",
+  "brandPrefix": "gotofont",
+  "style": "Regular",
+  "suffix": "Serif",
+  "tone": "artesanal, premium, galeria y empaques",
+  "generatedAt": "2026-06-19T08:39:03.917Z",
+  "sourceFormat": "opentype-generated-from-gotofont-original-contours",
+  "status": "ready_for_review",
+  "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
+  "binaries": {
+    "otf": "releases/gotofont-cobre-serif/1.0.0/otf/gotofont-cobre-serif-regular.otf",
+    "ttf": "releases/gotofont-cobre-serif/1.0.0/ttf/gotofont-cobre-serif-regular.ttf",
+    "woff2": "releases/gotofont-cobre-serif/1.0.0/woff2/gotofont-cobre-serif-regular.woff2"
+  },
+  "licenseTiers": {
+    "personal": 430,
+    "commercial": 1290,
+    "extended": 3870
+  }
+}

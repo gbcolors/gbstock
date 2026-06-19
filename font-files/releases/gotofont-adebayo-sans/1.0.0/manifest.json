@@ -1,45 +1,15 @@
 {
-  "family": "Adebayo Sans",
+  "family": "gotofont Adebayo Sans",
   "slug": "gotofont-adebayo-sans",
   "version": "1.0.0",
   "brandPrefix": "gotofont",
+  "style": "Regular",
   "suffix": "Sans",
-  "tone": "rounded geometric sans para mascotas, marcas juveniles, tiendas, anuncios y productos comerciales",
-  "generatedAt": "2026-06-19T19:11:02.123Z",
-  "sourceFormat": "original-opentype-paths-built-for-gbstock",
-  "status": "final",
-  "styles": {
-    "Light": {
-      "otf": "releases/gotofont-adebayo-sans/1.0.0/otf/gotofont-adebayo-sans-light.otf",
-      "ttf": "releases/gotofont-adebayo-sans/1.0.0/ttf/gotofont-adebayo-sans-light.ttf",
-      "woff2": "releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-light.woff2"
-    },
-    "Regular": {
-      "otf": "releases/gotofont-adebayo-sans/1.0.0/otf/gotofont-adebayo-sans-regular.otf",
-      "ttf": "releases/gotofont-adebayo-sans/1.0.0/ttf/gotofont-adebayo-sans-regular.ttf",
-      "woff2": "releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-regular.woff2"
-    },
-    "Bold": {
-      "otf": "releases/gotofont-adebayo-sans/1.0.0/otf/gotofont-adebayo-sans-bold.otf",
-      "ttf": "releases/gotofont-adebayo-sans/1.0.0/ttf/gotofont-adebayo-sans-bold.ttf",
-      "woff2": "releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-bold.woff2"
-    },
-    "Italic": {
-      "otf": "releases/gotofont-adebayo-sans/1.0.0/otf/gotofont-adebayo-sans-italic.otf",
-      "ttf": "releases/gotofont-adebayo-sans/1.0.0/ttf/gotofont-adebayo-sans-italic.ttf",
-      "woff2": "releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-italic.woff2"
-    },
-    "Light Italic": {
-      "otf": "releases/gotofont-adebayo-sans/1.0.0/otf/gotofont-adebayo-sans-light-italic.otf",
-      "ttf": "releases/gotofont-adebayo-sans/1.0.0/ttf/gotofont-adebayo-sans-light-italic.ttf",
-      "woff2": "releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-light-italic.woff2"
-    },
-    "Bold Italic": {
-      "otf": "releases/gotofont-adebayo-sans/1.0.0/otf/gotofont-adebayo-sans-bold-italic.otf",
-      "ttf": "releases/gotofont-adebayo-sans/1.0.0/ttf/gotofont-adebayo-sans-bold-italic.ttf",
-      "woff2": "releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-bold-italic.woff2"
-    }
-  },
+  "tone": "mascotas, moderna, divertida, juvenil y comercial",
+  "generatedAt": "2026-06-19T08:39:02.272Z",
+  "sourceFormat": "opentype-generated-from-gotofont-original-contours",
+  "status": "ready_for_review",
+  "commercialNameCheck": "preliminary-pass; requires final trademark/font-market search before publication",
   "binaries": {
     "otf": "releases/gotofont-adebayo-sans/1.0.0/otf/gotofont-adebayo-sans-regular.otf",
     "ttf": "releases/gotofont-adebayo-sans/1.0.0/ttf/gotofont-adebayo-sans-regular.ttf",

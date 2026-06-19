@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "gotofont Cobre Serif";
+  src: url("../woff2/gotofont-cobre-serif-regular.woff2") format("woff2"),
+       url("../otf/gotofont-cobre-serif-regular.otf") format("opentype"),
+       url("../ttf/gotofont-cobre-serif-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

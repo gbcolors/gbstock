@@ -1,0 +1,10 @@
+{
+  "generatedAt": "2026-06-19T21:08:27.225Z",
+  "decision": "production-curated-catalog-recovered",
+  "brandName": "GBstock",
+  "products": 26,
+  "refs": 47,
+  "missing": 0,
+  "missingRefs": [],
+  "note": "El catalogo masivo de 1042 queda en staging. Este paquete publica solo productos con archivos reales y descargables."
+}
