@@ -3,17 +3,17 @@ window.GBSTOCK_STORE_CONFIG = {
   "brandName": "stock",
   "brandMeta": "",
   "logoText": "GB",
-  "logoUrl": "./assets/brand/gb-air-03-original-letras-blancas.png",
+  "logoUrl": "./assets/brand/gb-air-06-azul-letras-blancas.png",
   "basePath": "./",
   "currency": "MXN",
   "perPage": 30,
   "assetCountLabel": "6",
-  "displayFontFamily": "GBstock Plus Display",
-  "displayFontUrl": "./font-files/releases/gbstock-plus-display/1.0.0/woff2/gbstock-plus-display-regular.woff2",
+  "displayFontFamily": "Adebayo Sans",
+  "displayFontUrl": "",
   "wordmarkFontFamily": "GBstock Plus Wordmark",
   "wordmarkFontUrl": "./font-files/releases/gbstock-plus-wordmark/1.0.0/woff2/gbstock-plus-wordmark-regular.woff2",
-  "uiFontFamily": "GBstock Menu Round",
-  "uiFontUrl": "./font-files/releases/gbstock-menu-round/1.0.0/woff2/gbstock-menu-round-regular.woff2",
+  "uiFontFamily": "Adebayo Sans",
+  "uiFontUrl": "",
   "eyebrow": "Bibliotecas digitales para marcas y creadores",
   "headline": "Fuentes, imagen y sonido curados para vender mejor.",
   "subhead": "Catalogo limpio: solo activos listos para revisar, licenciar y mejorar con criterio comercial.",
@@ -23,13 +23,13 @@ window.GBSTOCK_STORE_CONFIG = {
   "featuredProductId": "font-adebayo-sans",
   "legalDocsText": "Contratos, licencias y documentacion legal a nombre de GATO BRONCO COLORS CLOTHING ART FOOD SAS DE CV.",
   "theme": {
-    "ink": "#111827",
-    "muted": "#697386",
-    "line": "#dde5e8",
-    "accentDark": "#006c70",
-    "logoBg": "radial-gradient(circle at 32% 24%, #b6e45c, #00a8a8 46%, #635bff 100%)",
-    "featureBg": "linear-gradient(135deg, #ff6b4a, #635bff)",
-    "heroBg": "linear-gradient(135deg, rgba(0,168,168,.16), rgba(99,91,255,.12)), radial-gradient(circle at 88% 18%, rgba(255,209,102,.42), transparent 25%), #fff"
+    "ink": "#07142b",
+    "muted": "#657080",
+    "line": "#dbe3e8",
+    "accentDark": "#07142b",
+    "logoBg": "#07142b",
+    "featureBg": "linear-gradient(135deg, #ef463d, #ff8a2a)",
+    "heroBg": "linear-gradient(135deg, rgba(239,70,61,.96), rgba(255,138,42,.9))"
   },
   "categories": [
     {
@@ -66,7 +66,7 @@ window.GBSTOCK_STORE_CONFIG = {
       "id": "font-adebayo-sans",
       "category": "fonts",
       "title": "Adebayo Sans",
-      "description": "Familia rounded geometric sans en rediseño curado para mascotas, marcas juveniles, tiendas y anuncios. Incluye Light, Regular, Bold e Italics.",
+      "description": "Familia rounded sans curada para mascotas, marcas juveniles, tiendas, hoteles, restaurantes y anuncios. Incluye Light, Regular, Bold, Italic, Light Italic y Bold Italic con lectura normal.",
       "price": 390,
       "tag": "Sans",
       "file": "./downloads/gotofont-adebayo-sans-package.zip",
@@ -78,7 +78,7 @@ window.GBSTOCK_STORE_CONFIG = {
       },
       "designer": "GB Family Type",
       "previewWoff2": "./font-files/releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-regular.woff2",
-      "sampleText": "Adebayo Sans para mascotas, tiendas y marcas jovenes.",
+      "sampleText": "Adebayo Sans para tiendas, hoteles y marcas jovenes.",
       "finalFormats": [
         "OTF",
         "TTF",
@@ -86,9 +86,11 @@ window.GBSTOCK_STORE_CONFIG = {
         "Light",
         "Regular",
         "Bold",
-        "Italic"
+        "Italic",
+        "Light Italic",
+        "Bold Italic"
       ],
-      "status": "final",
+      "status": "final 1.1",
       "collection": "GBstock Curated Type"
     },
     {
@@ -175,6 +177,39 @@ window.GBSTOCK_STORE_CONFIG = {
         "contenido",
         "presentaciones"
       ]
+    }
+  ],
+  "typeFamily": "Adebayo Sans",
+  "typeFamilyFonts": [
+    {
+      "weight": 300,
+      "style": "normal",
+      "url": "./font-files/releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-light.woff2"
+    },
+    {
+      "weight": 400,
+      "style": "normal",
+      "url": "./font-files/releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-regular.woff2"
+    },
+    {
+      "weight": 700,
+      "style": "normal",
+      "url": "./font-files/releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-bold.woff2"
+    },
+    {
+      "weight": 300,
+      "style": "italic",
+      "url": "./font-files/releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-light-italic.woff2"
+    },
+    {
+      "weight": 400,
+      "style": "italic",
+      "url": "./font-files/releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-italic.woff2"
+    },
+    {
+      "weight": 700,
+      "style": "italic",
+      "url": "./font-files/releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-bold-italic.woff2"
     }
   ]
 };

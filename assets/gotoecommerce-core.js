@@ -71,6 +71,12 @@
       var existing = byId(styleId);
       if (existing) existing.remove();
       var css = "";
+      if (Array.isArray(config.typeFamilyFonts)) {
+        config.typeFamilyFonts.forEach(function(font) {
+          if (!font || !font.url) return;
+          css += '@font-face{font-family:"' + (config.typeFamily || "Adebayo Sans") + '";src:url("' + font.url + '") format("woff2");font-weight:' + (font.weight || 400) + ';font-style:' + (font.style || "normal") + ';font-display:swap;}';
+        });
+      }
       if (config.displayFontUrl) {
         css += '@font-face{font-family:"' + (config.displayFontFamily || "GBstock Display") + '";src:url("' + config.displayFontUrl + '") format("woff2");font-display:swap;}';
       }

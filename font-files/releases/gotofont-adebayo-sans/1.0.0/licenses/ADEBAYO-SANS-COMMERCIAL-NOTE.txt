@@ -1,0 +1,6 @@
+Adebayo Sans 1.1.0
+GBstock curated family package.
+
+Uso interno/comercial GBstock: titulos en Bold, menus en Regular, frases comerciales en Light Italic.
+Base de contornos reconstruida desde material con SIL Open Font License; nombres internos ajustados a Adebayo Sans para evitar nombres comerciales de terceros.
+Antes de registro formal de marca/fuente, realizar busqueda final IMPI/INDAUTOR y mercados tipograficos.
