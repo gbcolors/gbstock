@@ -1,5 +1,5 @@
-gotofont Adebayo Sans - Licencia comercial base
+Adebayo Sans
 
-Copyright 2026 Gato Bronco. Todos los derechos reservados.
-
-Activo digital de GBstock. El comprador adquiere derechos de uso segun licencia personal, comercial o extendida. No se permite revender, redistribuir, sublicenciar ni publicar los archivos OTF, TTF, WOFF2 o fuentes editables como recurso descargable independiente sin autorizacion por escrito.
+Familia tipografica original para GBstock. Incluye Light, Regular, Bold, Italic, Light Italic y Bold Italic.
+Titular: GATO BRONCO COLORS CLOTHING ART FOOD SAS DE CV.
+No se permite revender, redistribuir, sublicenciar ni publicar archivos fuente como recurso independiente sin autorizacion.

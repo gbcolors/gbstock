@@ -25478,7 +25478,7 @@ window.GBSTOCK_STORE_CONFIG = {
       "id": "font-adebayo-sans",
       "category": "fonts",
       "title": "Adebayo Sans",
-      "description": "Mascotas, moderna, divertida, juvenil y comercial.",
+      "description": "Rounded geometric sans para mascotas, marcas juveniles, tiendas y anuncios. Incluye Light, Regular, Bold e Italics.",
       "price": 390,
       "tag": "Sans",
       "file": "./downloads/gotofont-adebayo-sans-package.zip",
@@ -25490,7 +25490,7 @@ window.GBSTOCK_STORE_CONFIG = {
       },
       "designer": "GB Family Type",
       "previewWoff2": "./font-files/releases/gotofont-adebayo-sans/1.0.0/woff2/gotofont-adebayo-sans-regular.woff2",
-      "sampleText": "Adebayo Sans para marcas, creadores y licencias digitales.",
+      "sampleText": "Adebayo Sans para mascotas, tiendas y marcas jovenes.",
       "finalFormats": [
         "OTF",
         "TTF",
