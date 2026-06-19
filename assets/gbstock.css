@@ -6,9 +6,10 @@
   --ge-line: #d9dee5;
   --ge-salmon: #e98373;
   --ge-salmon-soft: #f5c5bb;
-  --ge-orange: #f27a24;
+  --ge-orange: #ff8a2a;
   --ge-green: #61e84b;
   --ge-mint: #42d6bd;
+  --ge-electric: #168cff;
   --ge-blue: #0b1a35;
   --ge-cold: #dce9ef;
   --ge-slate: #eef2f5;
@@ -115,11 +116,13 @@
 }
 
 .ge-logo-img {
-  width: 52px;
-  height: 52px;
+  width: 54px;
+  height: 54px;
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: 0 10px 28px rgba(7, 20, 43, .16);
+  box-shadow:
+    0 10px 28px rgba(7, 20, 43, .16),
+    0 0 0 1px rgba(66, 214, 189, .18);
 }
 
 .ge-brand > span {
@@ -137,10 +140,11 @@
 .ge-wordmark {
   font-family: "GBstock Plus Display", Inter, ui-sans-serif, system-ui, sans-serif;
   font-weight: 900;
-  color: var(--ge-blue);
+  color: #126eea;
   text-shadow:
-    1px 1px 0 var(--ge-orange),
-    0 10px 22px rgba(242, 122, 36, .18);
+    1px 1px 0 rgba(97, 232, 75, .72),
+    2px 2px 0 rgba(66, 214, 189, .48),
+    0 12px 24px rgba(22, 140, 255, .18);
 }
 
 .ge-brand small,
@@ -208,7 +212,8 @@
   position: relative;
   overflow: hidden;
   background:
-    radial-gradient(circle at 78% 18%, rgba(97, 232, 75, .26), transparent 24%),
+    radial-gradient(circle at 78% 18%, rgba(97, 232, 75, .28), transparent 24%),
+    radial-gradient(circle at 92% 8%, rgba(22, 140, 255, .2), transparent 28%),
     linear-gradient(135deg, rgba(233, 131, 115, .15), transparent 43%),
     linear-gradient(90deg, transparent 0 64%, rgba(11, 26, 53, .055) 64% 100%),
     var(--ge-surface);
@@ -234,9 +239,10 @@
   position: relative;
   z-index: 1;
   max-width: 980px;
-  color: var(--ge-blue);
+  color: #126eea;
   text-shadow:
-    2px 2px 0 var(--ge-orange),
+    2px 2px 0 rgba(97, 232, 75, .76),
+    4px 4px 0 rgba(66, 214, 189, .34),
     0 18px 38px rgba(7, 20, 43, .12);
   font-size: clamp(78px, 14vw, 196px);
   line-height: .72;
@@ -355,7 +361,7 @@
   color: #fff;
   background:
     linear-gradient(180deg, rgba(7, 20, 43, .04), rgba(7, 20, 43, .84)),
-    linear-gradient(135deg, #e98373 0%, #42d6bd 44%, #61e84b 62%, #0b1a35 100%);
+    linear-gradient(135deg, #168cff 0%, #42d6bd 42%, #61e84b 62%, #0b1a35 100%);
 }
 
 .ge-hero-card strong { font-size: 26px; }
@@ -465,11 +471,12 @@
 }
 
 .ge-specimen-word {
-  color: var(--ge-blue);
+  color: #126eea;
   font-size: clamp(84px, 15vw, 220px);
   line-height: .75;
   text-shadow:
-    2px 2px 0 var(--ge-orange),
+    2px 2px 0 rgba(97, 232, 75, .76),
+    4px 4px 0 rgba(66, 214, 189, .34),
     0 18px 38px rgba(7, 20, 43, .12);
 }
 
