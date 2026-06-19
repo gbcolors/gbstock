@@ -95,18 +95,18 @@
       root.innerHTML = [
         '<section class="ge-store" style="--ge-ink:' + safe(config.theme.ink) + ';--ge-accent-dark:' + safe(config.theme.accentDark) + ';--ge-line:' + safe(config.theme.line) + ';--ge-muted:' + safe(config.theme.muted) + ';--ge-logo-bg:' + safe(config.theme.logoBg) + ';--ge-feature-bg:' + safe(config.theme.featureBg) + ';--ge-hero-bg:' + safe(config.theme.heroBg) + '">',
         '<div class="ge-shell">',
-        '<div class="ge-topbar"><span>GBstock digital foundry</span><strong>1046 activos listos para licenciar</strong><span>OTF / TTF / WOFF2 / ZIP</span></div>',
         '<header class="ge-header">',
         '<a class="ge-brand" href="' + safe(config.basePath || "./") + '">' + (config.logoUrl ? '<img class="ge-logo-img" src="' + safe(config.logoUrl) + '" alt="' + safe(config.logoText || "GB") + '">' : '<span class="ge-logo">' + safe(config.logoText || "GB") + '</span>') + '<span><strong class="ge-wordmark">' + safe(config.brandName) + '</strong>' + (config.brandMeta ? '<small>' + safe(config.brandMeta) + '</small>' : '') + '</span></a>',
-        '<nav class="ge-nav">' + categories.map(function (cat) { return '<a href="' + safe(cat.href) + '" data-ge-category="' + safe(cat.id) + '">' + safe(cat.label) + '</a>'; }).join("") + '</nav>',
+        '<nav class="ge-nav"><span>Bibliotecas</span>' + categories.map(function (cat) { return '<a href="' + safe(cat.href) + '" data-ge-category="' + safe(cat.id) + '">' + safe(cat.label) + '</a>'; }).join("") + '</nav>',
         '<div class="ge-actions"><button class="ge-secondary" data-ge-account>Cuenta</button><button data-ge-cart>Carrito <span id="' + tenant + '-cart-count">0</span></button></div>',
         '</header>',
-        '<section class="ge-hero"><div class="ge-hero-copy"><p class="ge-eyebrow">' + safe(config.eyebrow) + '</p><div class="ge-hero-type" style="font-family:' + safe(config.displayFontFamily || "GBstock Display") + ', Inter, sans-serif;">GBstock</div><h1>' + safe(config.headline) + '</h1><p class="ge-muted">' + safe(config.subhead) + '</p><div class="ge-search"><input id="' + tenant + '-search" type="search" placeholder="' + safe(config.searchPlaceholder) + '"><button data-ge-search>Buscar</button></div><div class="ge-stats"><span><strong>1000</strong> business fonts</span><span><strong>30</strong> por pagina</span><span><strong>3</strong> licencias</span></div></div>',
+        '<section class="ge-hero"><div class="ge-hero-copy"><p class="ge-eyebrow">' + safe(config.eyebrow) + '</p><div class="ge-hero-type" style="font-family:' + safe(config.displayFontFamily || "GBstock Display") + ', Inter, sans-serif;">stock</div><h1>' + safe(config.headline) + '</h1><p class="ge-muted">' + safe(config.subhead) + '</p><div class="ge-search"><div><strong>Que estas buscando</strong><input id="' + tenant + '-search" type="search" placeholder="' + safe(config.searchPlaceholder) + '"></div><div><strong>Para que lo necesitas</strong><select id="' + tenant + '-intent"><option value="">Selecciona un uso</option><option value="hotel">Hotel / hospitality</option><option value="restaurant">Restaurante / cafe</option><option value="anuncio">Anuncio / campana</option><option value="logo">Logo / identidad</option><option value="reels">Reels / contenido</option><option value="app">App / interfaz</option></select></div><button data-ge-search>Buscar</button></div><div class="ge-search-chips"><button class="ge-chip" data-ge-chip="sans">Sans serif</button><button class="ge-chip" data-ge-chip="serif">Serif</button><button class="ge-chip" data-ge-chip="italic">Italicas</button><button class="ge-chip" data-ge-chip="cursiva">Cursivas</button><button class="ge-chip" data-ge-chip="display">Display</button><button class="ge-chip" data-ge-chip="gratis">Gratis</button><button class="ge-chip" data-ge-chip="musica anuncio">Musica para anuncio</button><button class="ge-chip" data-ge-chip="efectos">Efectos</button></div><div class="ge-stats"><span><strong>1000</strong> business fonts</span><span><strong>12</strong> starter gratis</span><span><strong>3</strong> licencias</span></div></div>',
         '<aside class="ge-hero-card"><span class="ge-tag">Featured release</span><div class="ge-hero-specimen" style="font-family:' + safe(config.displayFontFamily || "GBstock Display") + ', Inter, sans-serif;">Adebayo</div><strong>' + safe(config.featuredTitle) + '</strong><p>' + safe(config.featuredDescription) + '</p><button data-ge-buy="' + safe(config.featuredProductId) + '">Comprar ahora</button></aside></section>',
         '<section class="ge-categories">' + categories.map(function (cat) { return '<a class="ge-category" href="' + safe(cat.href) + '" data-ge-category="' + safe(cat.id) + '"><span class="ge-thumb">' + safe(cat.short) + '</span><strong>' + safe(cat.label) + '</strong><small>' + safe(cat.title) + '</small></a>'; }).join("") + '</section>',
         '<section class="ge-editorial"><div><p class="ge-eyebrow">Curated for commerce</p><h2>Fuentes para tiendas, hoteles, restaurantes, publicidad y marcas que necesitan verse reales.</h2></div><p>El catalogo combina familias sans, serif, display y rounded con paquetes finales listos para descarga. Cada ficha mantiene prueba tipografica, licencia personal/comercial/extendida y entrega digital inmediata en cuenta.</p></section>',
         '<section><div class="ge-section-head"><div><p class="ge-eyebrow">Recomendados</p><h2>Productos nuevos para vender hoy</h2></div><a href="./tipografias.html" data-ge-category="fonts">Ver tipografias</a></div><div id="' + tenant + '-featured" class="ge-featured"></div></section>',
         '<section class="ge-layout"><aside class="ge-filter"><h2>Catalogo</h2><label>Orden<select id="' + tenant + '-sort"><option value="recommended">Recomendados</option><option value="price-asc">Menor precio</option><option value="price-desc">Mayor precio</option><option value="new">Nuevos</option></select></label><label>Licencia<select id="' + tenant + '-license"><option value="personal">Personal</option><option value="commercial">Comercial</option><option value="extended">Extendida</option></select></label><button class="ge-secondary" data-ge-docs>Solicitar documentacion impresa</button><div class="ge-filter-note">Stripe, Mercado Pago, carrito, cuenta, historial de compras, tickets y descargas quedan listos para conectar a produccion.</div></aside><div><div class="ge-section-head"><div><p class="ge-eyebrow" id="' + tenant + '-category-label">Todo el stock</p><h2 id="' + tenant + '-catalog-title">Activos digitales</h2></div><span class="ge-count">' + products.length + ' productos</span></div><div id="' + tenant + '-list" class="ge-list"></div><div id="' + tenant + '-pagination" class="ge-pagination"></div></div></section>',
+        '<footer class="ge-topbar"><span>GBstock digital foundry</span><strong>' + safe(config.assetCountLabel || products.length) + ' activos listos para licenciar</strong><span>OTF / TTF / WOFF2 / ZIP</span></footer>',
         '</div>',
         '<aside id="' + tenant + '-account" class="ge-drawer"><div class="ge-drawer-head"><h2>Cuenta ' + safe(config.brandName) + '</h2><button class="ge-secondary" data-ge-close="' + tenant + '-account">Cerrar</button></div><input id="' + tenant + '-email" type="email" placeholder="correo@dominio.com"><button data-ge-login>Crear cuenta / Entrar</button><div class="ge-actions"><button class="ge-secondary">Google</button><button class="ge-secondary">Meta</button><button class="ge-secondary">iCloud</button></div><small class="ge-muted">OAuth preparado para conectar proveedores en produccion.</small><h3>Mis compras y descargas</h3><div id="' + tenant + '-purchases" class="ge-mini-list"></div><h3>Soporte</h3><textarea id="' + tenant + '-support" rows="3" placeholder="Describe tu ticket"></textarea><button data-ge-ticket>Levantar ticket</button><div id="' + tenant + '-tickets" class="ge-mini-list"></div></aside>',
         '<aside id="' + tenant + '-cart" class="ge-drawer"><div class="ge-drawer-head"><h2>Carrito</h2><button class="ge-secondary" data-ge-close="' + tenant + '-cart">Cerrar</button></div><div id="' + tenant + '-cart-items" class="ge-mini-list"></div><label><input id="' + tenant + '-docs" type="checkbox"> Agregar documentacion legal impresa</label><select id="' + tenant + '-shipping"><option value="300">Envio nacional documentos $300</option><option value="450">Envio nacional protegido $450</option><option value="600">Envio nacional express $600</option></select><p class="ge-muted">' + safe(config.legalDocsText) + '</p><div class="ge-total"><span>Total</span><strong id="' + tenant + '-total">$0 MXN</strong></div><button data-ge-checkout>Finalizar checkout</button></aside>',
@@ -235,6 +235,15 @@
         if (direction === "next") state.page = Math.min(totalPages, state.page + 1);
         renderProducts();
       }
+      if (event.target.closest("[data-ge-chip]")) {
+        var chip = event.target.closest("[data-ge-chip]").getAttribute("data-ge-chip");
+        var searchInput = byId(tenant + "-search");
+        if (searchInput) {
+          searchInput.value = chip;
+          state.page = 1;
+          renderProducts();
+        }
+      }
       if (event.target.closest("[data-ge-login]")) {
         state.account = byId(tenant + "-email").value.trim();
         save();
@@ -276,6 +285,12 @@
 
     root.addEventListener("change", function (event) {
       if (event.target.id === tenant + "-sort") {
+        state.page = 1;
+        renderProducts();
+      }
+      if (event.target.id === tenant + "-intent") {
+        var searchInput = byId(tenant + "-search");
+        if (searchInput && event.target.value) searchInput.value = event.target.value;
         state.page = 1;
         renderProducts();
       }

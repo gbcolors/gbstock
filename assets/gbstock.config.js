@@ -1,18 +1,19 @@
 window.GBSTOCK_STORE_CONFIG = {
   "tenantId": "gbstock",
-  "brandName": "GBstock",
+  "brandName": "stock",
   "brandMeta": "",
   "logoText": "GB",
   "logoUrl": "./assets/brand/gb-air-06-azul-letras-blancas.png",
   "basePath": "./",
   "currency": "MXN",
   "perPage": 30,
+  "assetCountLabel": "1046",
   "displayFontFamily": "GBstock Plus Display",
   "displayFontUrl": "./font-files/releases/gbstock-plus-display/1.0.0/woff2/gbstock-plus-display-regular.woff2",
-  "eyebrow": "Fotografia, tipografias, musica y sonidos",
-  "headline": "Recursos digitales con licencia clara para creadores.",
-  "subhead": "Compra, descarga y administra activos de GBstock desde tu cuenta. Tus productos adquiridos quedan disponibles para futuras descargas.",
-  "searchPlaceholder": "Buscar fuentes, fotos, beats, efectos...",
+  "eyebrow": "Bibliotecas digitales para marcas y creadores",
+  "headline": "Fuentes, imagen y sonido para vender mejor.",
+  "subhead": "Encuentra activos listos para anuncios, tiendas, hoteles, restaurantes, reels, identidad y campa?as con licencias claras.",
+  "searchPlaceholder": "Ej. sans serif para hotel, logo elegante, musica para anuncio",
   "featuredTitle": "Adebayo Sans",
   "featuredDescription": "Letra inspirada en mascotas: moderna, divertida, juvenil y lista para marca comercial.",
   "featuredProductId": "font-adebayo-sans",
@@ -29,30 +30,30 @@ window.GBSTOCK_STORE_CONFIG = {
   "categories": [
     {
       "id": "photography",
-      "label": "Fotografia",
-      "short": "Foto",
-      "title": "Fotografia digital con licencias",
+      "label": "Imagenes",
+      "short": "Img",
+      "title": "Imagenes y fotografia digital con licencias",
       "href": "./fotografia.html"
     },
     {
       "id": "fonts",
-      "label": "Tipografias",
+      "label": "Fuentes",
       "short": "Aa",
-      "title": "Fuentes de la libreria GB para marcas y creadores",
+      "title": "Fuentes tipograficas por estilo, industria y uso comercial",
       "href": "./tipografias.html"
     },
     {
       "id": "music",
       "label": "Musica",
       "short": "Mu",
-      "title": "Musica y loops para creadores",
+      "title": "Musica para anuncios, video, marca y contenido",
       "href": "./musica.html"
     },
     {
       "id": "sounds",
-      "label": "Sonidos",
+      "label": "Sonido",
       "short": "FX",
-      "title": "Efectos y ambientes sonoros",
+      "title": "Efectos, ambientes y recursos sonoros para produccion",
       "href": "./sonidos.html"
     }
   ],
@@ -61,13 +62,13 @@ window.GBSTOCK_STORE_CONFIG = {
       "id": "font-hotel-prime-001-sans",
       "category": "fonts",
       "title": "Hotel Prime 001 Sans",
-      "description": "Fuente enfocada a hotel, tiendas, anuncios y marca comercial..",
-      "price": 260,
-      "tag": "Sans",
+      "description": "Fuente enfocada a hotel, tiendas, anuncios y marca comercial. Version sencilla gratuita para probar la familia.",
+      "price": 0,
+      "tag": "Sans Gratis",
       "file": "./downloads/gbbiz-hotel-prime-001-sans-package.zip",
       "featured": true,
       "licenseTiers": {
-        "personal": 260,
+        "personal": 0,
         "commercial": 780,
         "extended": 2340
       },
@@ -80,19 +81,20 @@ window.GBSTOCK_STORE_CONFIG = {
         "WOFF2"
       ],
       "status": "final",
-      "collection": "GBstock Business 1000"
+      "collection": "GBstock Business 1000",
+      "freeStarter": true
     },
     {
       "id": "font-restaurant-prime-002-serif",
       "category": "fonts",
       "title": "Restaurant Prime 002 Serif",
-      "description": "Fuente enfocada a restaurant, tiendas, anuncios y marca comercial..",
-      "price": 280,
-      "tag": "Serif",
+      "description": "Fuente enfocada a restaurant, tiendas, anuncios y marca comercial. Version sencilla gratuita para probar la familia.",
+      "price": 0,
+      "tag": "Serif Gratis",
       "file": "./downloads/gbbiz-restaurant-prime-002-serif-package.zip",
       "featured": true,
       "licenseTiers": {
-        "personal": 280,
+        "personal": 0,
         "commercial": 840,
         "extended": 2520
       },
@@ -105,19 +107,20 @@ window.GBSTOCK_STORE_CONFIG = {
         "WOFF2"
       ],
       "status": "final",
-      "collection": "GBstock Business 1000"
+      "collection": "GBstock Business 1000",
+      "freeStarter": true
     },
     {
       "id": "font-retail-prime-003-sans",
       "category": "fonts",
       "title": "Retail Prime 003 Sans",
-      "description": "Fuente enfocada a retail, tiendas, anuncios y marca comercial..",
-      "price": 300,
-      "tag": "Sans",
+      "description": "Fuente enfocada a retail, tiendas, anuncios y marca comercial. Version sencilla gratuita para probar la familia.",
+      "price": 0,
+      "tag": "Sans Gratis",
       "file": "./downloads/gbbiz-retail-prime-003-sans-package.zip",
       "featured": true,
       "licenseTiers": {
-        "personal": 300,
+        "personal": 0,
         "commercial": 900,
         "extended": 2700
       },
@@ -130,19 +133,20 @@ window.GBSTOCK_STORE_CONFIG = {
         "WOFF2"
       ],
       "status": "final",
-      "collection": "GBstock Business 1000"
+      "collection": "GBstock Business 1000",
+      "freeStarter": true
     },
     {
       "id": "font-market-prime-004-serif",
       "category": "fonts",
       "title": "Market Prime 004 Serif",
-      "description": "Fuente enfocada a market, tiendas, anuncios y marca comercial..",
-      "price": 320,
-      "tag": "Serif",
+      "description": "Fuente enfocada a market, tiendas, anuncios y marca comercial. Version sencilla gratuita para probar la familia.",
+      "price": 0,
+      "tag": "Serif Gratis",
       "file": "./downloads/gbbiz-market-prime-004-serif-package.zip",
       "featured": true,
       "licenseTiers": {
-        "personal": 320,
+        "personal": 0,
         "commercial": 960,
         "extended": 2880
       },
@@ -155,19 +159,20 @@ window.GBSTOCK_STORE_CONFIG = {
         "WOFF2"
       ],
       "status": "final",
-      "collection": "GBstock Business 1000"
+      "collection": "GBstock Business 1000",
+      "freeStarter": true
     },
     {
       "id": "font-boutique-prime-005-sans",
       "category": "fonts",
       "title": "Boutique Prime 005 Sans",
-      "description": "Fuente enfocada a boutique, tiendas, anuncios y marca comercial..",
-      "price": 340,
-      "tag": "Sans",
+      "description": "Fuente enfocada a boutique, tiendas, anuncios y marca comercial. Version sencilla gratuita para probar la familia.",
+      "price": 0,
+      "tag": "Sans Gratis",
       "file": "./downloads/gbbiz-boutique-prime-005-sans-package.zip",
       "featured": true,
       "licenseTiers": {
-        "personal": 340,
+        "personal": 0,
         "commercial": 1020,
         "extended": 3060
       },
@@ -180,19 +185,20 @@ window.GBSTOCK_STORE_CONFIG = {
         "WOFF2"
       ],
       "status": "final",
-      "collection": "GBstock Business 1000"
+      "collection": "GBstock Business 1000",
+      "freeStarter": true
     },
     {
       "id": "font-cafe-prime-006-serif",
       "category": "fonts",
       "title": "Cafe Prime 006 Serif",
-      "description": "Fuente enfocada a cafe, tiendas, anuncios y marca comercial..",
-      "price": 360,
-      "tag": "Serif",
+      "description": "Fuente enfocada a cafe, tiendas, anuncios y marca comercial. Version sencilla gratuita para probar la familia.",
+      "price": 0,
+      "tag": "Serif Gratis",
       "file": "./downloads/gbbiz-cafe-prime-006-serif-package.zip",
       "featured": true,
       "licenseTiers": {
-        "personal": 360,
+        "personal": 0,
         "commercial": 1080,
         "extended": 3240
       },
@@ -205,19 +211,20 @@ window.GBSTOCK_STORE_CONFIG = {
         "WOFF2"
       ],
       "status": "final",
-      "collection": "GBstock Business 1000"
+      "collection": "GBstock Business 1000",
+      "freeStarter": true
     },
     {
       "id": "font-bistro-prime-007-sans",
       "category": "fonts",
       "title": "Bistro Prime 007 Sans",
-      "description": "Fuente enfocada a bistro, tiendas, anuncios y marca comercial..",
-      "price": 380,
-      "tag": "Sans",
+      "description": "Fuente enfocada a bistro, tiendas, anuncios y marca comercial. Version sencilla gratuita para probar la familia.",
+      "price": 0,
+      "tag": "Sans Gratis",
       "file": "./downloads/gbbiz-bistro-prime-007-sans-package.zip",
       "featured": true,
       "licenseTiers": {
-        "personal": 380,
+        "personal": 0,
         "commercial": 1140,
         "extended": 3420
       },
@@ -230,19 +237,20 @@ window.GBSTOCK_STORE_CONFIG = {
         "WOFF2"
       ],
       "status": "final",
-      "collection": "GBstock Business 1000"
+      "collection": "GBstock Business 1000",
+      "freeStarter": true
     },
     {
       "id": "font-resort-prime-008-sans",
       "category": "fonts",
       "title": "Resort Prime 008 Sans",
-      "description": "Fuente enfocada a resort, tiendas, anuncios y marca comercial..",
-      "price": 400,
-      "tag": "Sans",
+      "description": "Fuente enfocada a resort, tiendas, anuncios y marca comercial. Version sencilla gratuita para probar la familia.",
+      "price": 0,
+      "tag": "Sans Gratis",
       "file": "./downloads/gbbiz-resort-prime-008-sans-package.zip",
       "featured": true,
       "licenseTiers": {
-        "personal": 400,
+        "personal": 0,
         "commercial": 1200,
         "extended": 3600
       },
@@ -255,19 +263,20 @@ window.GBSTOCK_STORE_CONFIG = {
         "WOFF2"
       ],
       "status": "final",
-      "collection": "GBstock Business 1000"
+      "collection": "GBstock Business 1000",
+      "freeStarter": true
     },
     {
       "id": "font-spa-prime-009-serif",
       "category": "fonts",
       "title": "Spa Prime 009 Serif",
-      "description": "Fuente enfocada a spa, tiendas, anuncios y marca comercial..",
-      "price": 420,
-      "tag": "Serif",
+      "description": "Fuente enfocada a spa, tiendas, anuncios y marca comercial. Version sencilla gratuita para probar la familia.",
+      "price": 0,
+      "tag": "Serif Gratis",
       "file": "./downloads/gbbiz-spa-prime-009-serif-package.zip",
       "featured": false,
       "licenseTiers": {
-        "personal": 420,
+        "personal": 0,
         "commercial": 1260,
         "extended": 3780
       },
@@ -280,19 +289,20 @@ window.GBSTOCK_STORE_CONFIG = {
         "WOFF2"
       ],
       "status": "final",
-      "collection": "GBstock Business 1000"
+      "collection": "GBstock Business 1000",
+      "freeStarter": true
     },
     {
       "id": "font-bar-prime-010-sans",
       "category": "fonts",
       "title": "Bar Prime 010 Sans",
-      "description": "Fuente enfocada a bar, tiendas, anuncios y marca comercial..",
-      "price": 440,
-      "tag": "Sans",
+      "description": "Fuente enfocada a bar, tiendas, anuncios y marca comercial. Version sencilla gratuita para probar la familia.",
+      "price": 0,
+      "tag": "Sans Gratis",
       "file": "./downloads/gbbiz-bar-prime-010-sans-package.zip",
       "featured": false,
       "licenseTiers": {
-        "personal": 440,
+        "personal": 0,
         "commercial": 1320,
         "extended": 3960
       },
@@ -305,19 +315,20 @@ window.GBSTOCK_STORE_CONFIG = {
         "WOFF2"
       ],
       "status": "final",
-      "collection": "GBstock Business 1000"
+      "collection": "GBstock Business 1000",
+      "freeStarter": true
     },
     {
       "id": "font-bakery-prime-011-serif",
       "category": "fonts",
       "title": "Bakery Prime 011 Serif",
-      "description": "Fuente enfocada a bakery, tiendas, anuncios y marca comercial..",
-      "price": 460,
-      "tag": "Serif",
+      "description": "Fuente enfocada a bakery, tiendas, anuncios y marca comercial. Version sencilla gratuita para probar la familia.",
+      "price": 0,
+      "tag": "Serif Gratis",
       "file": "./downloads/gbbiz-bakery-prime-011-serif-package.zip",
       "featured": false,
       "licenseTiers": {
-        "personal": 460,
+        "personal": 0,
         "commercial": 1380,
         "extended": 4140
       },
@@ -330,19 +341,20 @@ window.GBSTOCK_STORE_CONFIG = {
         "WOFF2"
       ],
       "status": "final",
-      "collection": "GBstock Business 1000"
+      "collection": "GBstock Business 1000",
+      "freeStarter": true
     },
     {
       "id": "font-agency-prime-012-sans",
       "category": "fonts",
       "title": "Agency Prime 012 Sans",
-      "description": "Fuente enfocada a agency, tiendas, anuncios y marca comercial..",
-      "price": 480,
-      "tag": "Sans",
+      "description": "Fuente enfocada a agency, tiendas, anuncios y marca comercial. Version sencilla gratuita para probar la familia.",
+      "price": 0,
+      "tag": "Sans Gratis",
       "file": "./downloads/gbbiz-agency-prime-012-sans-package.zip",
       "featured": false,
       "licenseTiers": {
-        "personal": 480,
+        "personal": 0,
         "commercial": 1440,
         "extended": 4320
       },
@@ -355,7 +367,8 @@ window.GBSTOCK_STORE_CONFIG = {
         "WOFF2"
       ],
       "status": "final",
-      "collection": "GBstock Business 1000"
+      "collection": "GBstock Business 1000",
+      "freeStarter": true
     },
     {
       "id": "font-studio-prime-013-serif",
@@ -25980,39 +25993,67 @@ window.GBSTOCK_STORE_CONFIG = {
       "id": "music-brief",
       "category": "music",
       "title": "Brief Beats Vol. 1",
-      "description": "Loops cortos para reels, intros y anuncios.",
+      "description": "Beats breves para reels, anuncios cortos y presentaciones de marca.",
       "price": 650,
       "tag": "Musica",
       "file": "./downloads/brief-beats-vol1.zip",
-      "featured": true
+      "featured": true,
+      "useCases": [
+        "anuncios",
+        "reels",
+        "branding",
+        "contenido",
+        "presentaciones"
+      ]
     },
     {
       "id": "music-logo",
       "category": "music",
       "title": "Logo Stingers",
-      "description": "Identidades sonoras cortas para video y apps.",
+      "description": "Stingers sonoros para logos, intros, cierres y transiciones comerciales.",
       "price": 430,
       "tag": "Musica",
-      "file": "./downloads/logo-stingers.zip"
+      "file": "./downloads/logo-stingers.zip",
+      "useCases": [
+        "anuncios",
+        "reels",
+        "branding",
+        "contenido",
+        "presentaciones"
+      ]
     },
     {
       "id": "sound-ui",
       "category": "sounds",
       "title": "UI Clicks Soft Pack",
-      "description": "Sonidos suaves para interfaces, botones y confirmaciones.",
+      "description": "Clicks suaves para apps, interfaces, demos y productos digitales.",
       "price": 290,
       "tag": "FX",
       "file": "./downloads/ui-clicks-soft.zip",
-      "featured": true
+      "featured": true,
+      "useCases": [
+        "anuncios",
+        "reels",
+        "branding",
+        "contenido",
+        "presentaciones"
+      ]
     },
     {
       "id": "sound-city",
       "category": "sounds",
       "title": "City Texture Ambiences",
-      "description": "Ambientes urbanos para video, juegos y contenido.",
+      "description": "Ambientes urbanos para videos, hospitality, lifestyle y piezas editoriales.",
       "price": 380,
       "tag": "FX",
-      "file": "./downloads/city-texture-ambiences.zip"
+      "file": "./downloads/city-texture-ambiences.zip",
+      "useCases": [
+        "anuncios",
+        "reels",
+        "branding",
+        "contenido",
+        "presentaciones"
+      ]
     }
   ]
 };
