@@ -10,6 +10,8 @@ window.GBSTOCK_STORE_CONFIG = {
   "assetCountLabel": "1046",
   "displayFontFamily": "GBstock Plus Display",
   "displayFontUrl": "./font-files/releases/gbstock-plus-display/1.0.0/woff2/gbstock-plus-display-regular.woff2",
+  "wordmarkFontFamily": "GBstock Plus Wordmark",
+  "wordmarkFontUrl": "./font-files/releases/gbstock-plus-wordmark/1.0.0/woff2/gbstock-plus-wordmark-regular.woff2",
   "eyebrow": "Bibliotecas digitales para marcas y creadores",
   "headline": "Fuentes, imagen y sonido para vender mejor.",
   "subhead": "Encuentra activos listos para anuncios, tiendas, hoteles, restaurantes, reels, identidad y campa?as con licencias claras.",
